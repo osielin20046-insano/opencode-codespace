@@ -571,3 +571,12 @@ To https://github.com/osielin20046-insano/opencode-codespace
 > build · deepseek-v4.1-flash-free
 [91m[1mError: [0mFree usage limit reached. Connect a provider or subscribe to OpenCode Go to keep going, or switch models.
 == día 26 fin exit=1 19:45:16 UTC ==
+[main 7ebcc03] Reporte DOF 2026-11-26
+ 1 file changed, 9 insertions(+)
+To https://github.com/osielin20046-insano/opencode-codespace
+   2ad9164..7ebcc03  main -> main
+== día 27 inicio 19:45:17 UTC ==
+[0m
+> build · deepseek-v4.1-flash-free
+[91m[1mError: [0mFree usage limit reached. Connect a provider or subscribe to OpenCode Go to keep going, or switch models.
+== día 27 fin exit=1 19:45:21 UTC ==
