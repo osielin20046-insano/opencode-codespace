@@ -3,7 +3,7 @@
   "mcp": {
     "servers": {
       "browser-use": {
-        "disabled": true,
+        "disabled": false,
         "headers": {
           "x-browser-use-api-key": "{env:BROWSER_USE_API_KEY}"
         },
