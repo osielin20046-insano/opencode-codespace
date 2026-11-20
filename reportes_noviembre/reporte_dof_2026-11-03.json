@@ -1,0 +1,1306 @@
+{
+  "version_contrato": "2.0",
+  "reporte": {
+    "nombre": "Clever Ulpiano",
+    "titulo": "Reporte clasificado de publicaciones oficiales",
+    "fecha_inicio": "2026-11-03",
+    "fecha_fin": "2026-11-03",
+    "estado": "completado",
+    "mensajes": [
+      "La fuente no publica la hora de cada nota del DOF; hora_publicacion se registra como null."
+    ],
+    "totales": {
+      "ediciones": 1,
+      "publicaciones": 14,
+      "tarjetas": 14,
+      "reformas": 3
+    }
+  },
+  "fuentes": [
+    {
+      "fuente": "DOF",
+      "estado": "completado",
+      "mensajes": [],
+      "n_ediciones": 1,
+      "n_publicaciones": 14,
+      "n_tarjetas": 14
+    }
+  ],
+  "ediciones": [
+    {
+      "ref_edicion": "E0001",
+      "fuente": "DOF",
+      "jurisdiccion": "federal",
+      "entidad_federativa": null,
+      "tipo": "Matutina",
+      "fecha_publicacion": "2026-11-03",
+      "url_oficial": "https://dof.gob.mx/index.php?year=2026&month=11&day=03",
+      "estado_captura": "completa",
+      "mensajes": [],
+      "publicaciones": [
+        {
+          "ref_publicacion": "P000001",
+          "identificador_oficial": "5802757",
+          "titulo": "Aviso por el que se dan a conocer las reformas, adiciones y derogaciones a las diversas disposiciones de los Lineamientos Generales para la Integración, Organización y Funcionamiento de las Comisiones del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5802757&fecha=03/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5802757&fecha=03/11/2026&cod_diario=330585",
+          "fecha_publicacion": "2026-11-03",
+          "hora_publicacion": null,
+          "dependencia": "SECRETARIA DE GOBERNACION",
+          "tipo_publicacion": "aviso",
+          "seccion": "UNICA SECCION",
+          "tomo": null,
+          "apartado": "PODER EJECUTIVO",
+          "alcance": null,
+          "clasificacion_reforma": "reforma_normativa",
+          "reformas": [
+            {
+              "ordenamiento": "Lineamientos Generales para la Integración, Organización y Funcionamiento de las Comisiones del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes",
+              "articulo": null,
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": null,
+              "texto_transitorio": "ÚNICO.- El presente Aviso entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.",
+              "fecha_entrada_vigor": "2026-11-03",
+              "fundamento_vigencia": "Transitorio Único del Aviso",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "por_revisar",
+              "mensaje_revision": "El DOF no enumera en la nota los artículos modificados; las reformas, adiciones y derogaciones aprobadas mediante Acuerdo SIPINNA/07/2025 se encuentran en los vínculos PDF indicados en la nota."
+            }
+          ],
+          "id_tarjetas": [
+            "T000001"
+          ]
+        },
+        {
+          "ref_publicacion": "P000002",
+          "identificador_oficial": "5802758",
+          "titulo": "Aviso por el que se dan a conocer las reformas, adiciones y derogaciones a las diversas disposiciones del Manual de organización y operación del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5802758&fecha=03/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5802758&fecha=03/11/2026&cod_diario=330585",
+          "fecha_publicacion": "2026-11-03",
+          "hora_publicacion": null,
+          "dependencia": "SECRETARIA DE GOBERNACION",
+          "tipo_publicacion": "aviso",
+          "seccion": "UNICA SECCION",
+          "tomo": null,
+          "apartado": "PODER EJECUTIVO",
+          "alcance": null,
+          "clasificacion_reforma": "reforma_normativa",
+          "reformas": [
+            {
+              "ordenamiento": "Manual de organización y operación del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes",
+              "articulo": null,
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": null,
+              "texto_transitorio": "ÚNICO.- El presente Aviso entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.",
+              "fecha_entrada_vigor": "2026-11-03",
+              "fundamento_vigencia": "Transitorio Único del Aviso",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "por_revisar",
+              "mensaje_revision": "El DOF no enumera en la nota los artículos modificados; las reformas y adiciones aprobadas mediante Acuerdo SIPINNA/06/2025 se encuentran en los vínculos PDF indicados en la nota."
+            }
+          ],
+          "id_tarjetas": [
+            "T000002"
+          ]
+        },
+        {
+          "ref_publicacion": "P000003",
+          "identificador_oficial": "5802760",
+          "titulo": "Acuerdo por el que se destina a la Secretaría de Desarrollo Agrario, Territorial y Urbano, los inmuebles federales denominados Oficinas Centrales Sedatu \"Reforma 362\", con Registro Federal Inmobiliario 9-19858-6 y superficie de 555.75 metros cuadrados y Oficinas Centrales Sedatu \"Reforma 364\", con Registro Federal Inmobiliario 9-19857-7 y superficie de 1,470.16 metros cuadrados, ubicados en Paseo de la Reforma, número 362 y 364, respectivamente, Colonia Juárez, Código Postal 06600, Alcaldía Cuauhtémoc, Ciudad de México.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5802760&fecha=03/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5802760&fecha=03/11/2026&cod_diario=330585",
+          "fecha_publicacion": "2026-11-03",
+          "hora_publicacion": null,
+          "dependencia": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+          "tipo_publicacion": "acuerdo",
+          "seccion": "UNICA SECCION",
+          "tomo": null,
+          "apartado": "PODER EJECUTIVO",
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000003"
+          ]
+        },
+        {
+          "ref_publicacion": "P000004",
+          "identificador_oficial": "5802761",
+          "titulo": "Acuerdo por el que se destina a la Secretaría de Marina el inmueble federal denominado \"Sanatorio Naval de Santa Rosalía, B.C.S\"., con Registro Federal Inmobiliario 3-3488-0 y superficie de 334.38 metros cuadrados, ubicado en Calle Las Flores número 19, Colonia Mesa México, Código Postal 23920, Localidad de Santa Rosalía, Municipio de Mulegé, Estado de Baja California Sur.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5802761&fecha=03/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5802761&fecha=03/11/2026&cod_diario=330585",
+          "fecha_publicacion": "2026-11-03",
+          "hora_publicacion": null,
+          "dependencia": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+          "tipo_publicacion": "acuerdo",
+          "seccion": "UNICA SECCION",
+          "tomo": null,
+          "apartado": "PODER EJECUTIVO",
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000004"
+          ]
+        },
+        {
+          "ref_publicacion": "P000005",
+          "identificador_oficial": "5802763",
+          "titulo": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, Fiscalía General de la República, entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, que la Décimo Segunda Sala Regional en la Ciudad de México del Tribunal Federal de Justicia Administrativa, dentro del juicio contencioso administrativo número 7762/25-17-12-2, promovido por la empresa Flow & Low de México, Sociedad Anónima de Capital Variable, por conducto de su representante legal, el ciudadano Eduardo López Martín del Campo, mediante sentencia definitiva de dos de marzo de dos mil veintiséis, declaró la nulidad de la resolución número T.O.I.C.07/1011 de diecinueve de marzo de dos mil veinticinco, emitida en el expediente administrativo 009/REC.REV./2024, así como la originalmente recurrida de fecha 30 de octubre de dos mil veinticuatro, dictada en el procedimiento administrativo de sanción a proveedores y licitantes número 044/PAS/2022.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5802763&fecha=03/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5802763&fecha=03/11/2026&cod_diario=330585",
+          "fecha_publicacion": "2026-11-03",
+          "hora_publicacion": null,
+          "dependencia": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+          "tipo_publicacion": "circular",
+          "seccion": "UNICA SECCION",
+          "tomo": null,
+          "apartado": "PODER EJECUTIVO",
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000005"
+          ]
+        },
+        {
+          "ref_publicacion": "P000006",
+          "identificador_oficial": "5802765",
+          "titulo": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Puebla.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5802765&fecha=03/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5802765&fecha=03/11/2026&cod_diario=330585",
+          "fecha_publicacion": "2026-11-03",
+          "hora_publicacion": null,
+          "dependencia": "SECRETARIA DE SALUD",
+          "tipo_publicacion": "acuerdo",
+          "seccion": "UNICA SECCION",
+          "tomo": null,
+          "apartado": "PODER EJECUTIVO",
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000006"
+          ]
+        },
+        {
+          "ref_publicacion": "P000007",
+          "identificador_oficial": "5802767",
+          "titulo": "Acuerdo por el que se modifican las Reglas de Operación del Programa de Vivienda Social para el ejercicio fiscal 2026.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5802767&fecha=03/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5802767&fecha=03/11/2026&cod_diario=330585",
+          "fecha_publicacion": "2026-11-03",
+          "hora_publicacion": null,
+          "dependencia": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+          "tipo_publicacion": "acuerdo",
+          "seccion": "UNICA SECCION",
+          "tomo": null,
+          "apartado": "PODER EJECUTIVO",
+          "alcance": null,
+          "clasificacion_reforma": "reforma_normativa",
+          "reformas": [
+            {
+              "ordenamiento": "Reglas de Operación del Programa de Vivienda Social para el ejercicio fiscal 2026",
+              "articulo": null,
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "modificacion",
+              "texto_anterior": null,
+              "texto_nuevo": null,
+              "texto_transitorio": "ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.",
+              "fecha_entrada_vigor": "2026-11-04",
+              "fundamento_vigencia": "Transitorio Único del Acuerdo",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "incompleta",
+              "mensaje_revision": "La modificación se remite al anexo publicado en la URL del documento; no se transcribe aquí porque no aparece en el texto de la nota."
+            }
+          ],
+          "id_tarjetas": [
+            "T000007"
+          ]
+        },
+        {
+          "ref_publicacion": "P000008",
+          "identificador_oficial": "5802769",
+          "titulo": "Decreto relativo a la revisión de la Cuenta de la Hacienda Pública Federal correspondiente al Ejercicio Fiscal 2024.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5802769&fecha=03/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5802769&fecha=03/11/2026&cod_diario=330585",
+          "fecha_publicacion": "2026-11-03",
+          "hora_publicacion": null,
+          "dependencia": "CAMARA DE DIPUTADOS",
+          "tipo_publicacion": "decreto",
+          "seccion": "UNICA SECCION",
+          "tomo": null,
+          "apartado": "PODER LEGISLATIVO",
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000008"
+          ]
+        },
+        {
+          "ref_publicacion": "P000009",
+          "identificador_oficial": "5802771",
+          "titulo": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 124/2025, así como los Votos Particulares de las señoras Ministras Sara Irene Herrerías Guerra y Lenia Batres Guadarrama, y Concurrente y Particular del señor Ministro Arístides Rodrigo Guerrero.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5802771&fecha=03/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5802771&fecha=03/11/2026&cod_diario=330585",
+          "fecha_publicacion": "2026-11-03",
+          "hora_publicacion": null,
+          "dependencia": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+          "tipo_publicacion": "resolucion",
+          "seccion": "UNICA SECCION",
+          "tomo": null,
+          "apartado": "PODER JUDICIAL",
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000009"
+          ]
+        },
+        {
+          "ref_publicacion": "P000010",
+          "identificador_oficial": "5802773",
+          "titulo": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5802773&fecha=03/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5802773&fecha=03/11/2026&cod_diario=330585",
+          "fecha_publicacion": "2026-11-03",
+          "hora_publicacion": null,
+          "dependencia": "BANCO DE MEXICO",
+          "tipo_publicacion": "indicador_diario",
+          "seccion": "UNICA SECCION",
+          "tomo": null,
+          "apartado": "ORGANISMOS AUTONOMOS",
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000010"
+          ]
+        },
+        {
+          "ref_publicacion": "P000011",
+          "identificador_oficial": "5802774",
+          "titulo": "Tasas de interés interbancarias de equilibrio.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5802774&fecha=03/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5802774&fecha=03/11/2026&cod_diario=330585",
+          "fecha_publicacion": "2026-11-03",
+          "hora_publicacion": null,
+          "dependencia": "BANCO DE MEXICO",
+          "tipo_publicacion": "indicador_diario",
+          "seccion": "UNICA SECCION",
+          "tomo": null,
+          "apartado": "ORGANISMOS AUTONOMOS",
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000011"
+          ]
+        },
+        {
+          "ref_publicacion": "P000012",
+          "identificador_oficial": "5802775",
+          "titulo": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5802775&fecha=03/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5802775&fecha=03/11/2026&cod_diario=330585",
+          "fecha_publicacion": "2026-11-03",
+          "hora_publicacion": null,
+          "dependencia": "BANCO DE MEXICO",
+          "tipo_publicacion": "indicador_diario",
+          "seccion": "UNICA SECCION",
+          "tomo": null,
+          "apartado": "ORGANISMOS AUTONOMOS",
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000012"
+          ]
+        },
+        {
+          "ref_publicacion": "P000013",
+          "identificador_oficial": "5802778",
+          "titulo": "Oficio Circular C/002/2026 en materia de cumplimiento al punto recomendatorio quinto de la Recomendación 98VG/2023 de la Comisión Nacional de los Derechos Humanos por el que se instruye a las personas titulares de las unidades administrativas de la Fiscalía General de la República, así como del Instituto Nacional de Ciencias Penales.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5802778&fecha=03/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5802778&fecha=03/11/2026&cod_diario=330585",
+          "fecha_publicacion": "2026-11-03",
+          "hora_publicacion": null,
+          "dependencia": "FISCALIA GENERAL DE LA REPUBLICA",
+          "tipo_publicacion": "circular",
+          "seccion": "UNICA SECCION",
+          "tomo": null,
+          "apartado": "ORGANISMOS AUTONOMOS",
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000013"
+          ]
+        },
+        {
+          "ref_publicacion": "P000014",
+          "identificador_oficial": "5802779",
+          "titulo": "Oficio Circular C/003/2026 en materia de cumplimiento al punto recomendatorio quinto de la Recomendación 98VG/2023 de la Comisión Nacional de los Derechos Humanos por el que se instruye a las personas titulares de las unidades administrativas de la Fiscalía General de la República, así como del Instituto Nacional de Ciencias Penales.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5802779&fecha=03/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5802779&fecha=03/11/2026&cod_diario=330585",
+          "fecha_publicacion": "2026-11-03",
+          "hora_publicacion": null,
+          "dependencia": "FISCALIA GENERAL DE LA REPUBLICA",
+          "tipo_publicacion": "circular",
+          "seccion": "UNICA SECCION",
+          "tomo": null,
+          "apartado": "ORGANISMOS AUTONOMOS",
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000014"
+          ]
+        }
+      ]
+    }
+  ],
+  "tarjetas": [
+    {
+      "ref_tarjeta": "T000001",
+      "publicaciones_origen": [
+        "P000001"
+      ],
+      "tipo_publicacion": "aviso",
+      "topico_principal": {
+        "clave": "t-gap",
+        "nombre": "Gobierno y Administración Pública"
+      },
+      "topicos_secundarios": [
+        "SIPINNA",
+        "Lineamientos de comisiones",
+        "Protección integral de niñas, niños y adolescentes"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría de Gobernación"
+      ],
+      "fecha_publicacion": "2026-11-03",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Aviso de reformas a los Lineamientos Generales de las Comisiones del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes",
+      "subtitulo": "Reformas, adiciones y derogaciones aprobadas mediante Acuerdo SIPINNA/07/2025.",
+      "audiencia_objetivo": "Servidores públicos de las instancias integrantes del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes",
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "Se dan a conocer reformas, adiciones y derogaciones a los Lineamientos Generales para la Integración, Organización y Funcionamiento de las Comisiones del Sistema.",
+        "Los cambios fueron aprobados mediante Acuerdo SIPINNA/07/2025, de fecha 15 de diciembre de 2025.",
+        "El aviso entra en vigor el mismo día de su publicación en el Diario Oficial de la Federación.",
+        "Los textos modificados se encuentran disponibles en los vínculos oficiales referidos en la nota."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "La Secretaría Ejecutiva del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes da a conocer reformas, adiciones y derogaciones a los Lineamientos Generales para la Integración, Organización y Funcionamiento de las Comisiones del Sistema, aprobadas mediante Acuerdo SIPINNA/07/2025. El aviso entra en vigor el mismo día de su publicación y los textos modificados se encuentran en los vínculos oficiales referidos. Para el perfil legal y de cumplimiento, corresponde verificar la versión vigente de los lineamientos, identificar artículos afectados, actualizar matrices normativas y orientar a las comisiones sobre nuevas obligaciones, plazos y responsables. También conviene conservar la evidencia de publicación y documentar la adopción de los cambios en los procesos internos.",
+          "accion_recomendada": "Actualiza la matriz normativa y verifica la versión vigente de los lineamientos."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "El aviso modifica la operación de las comisiones del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes y exige que las instancias integrantes conozcan los cambios aprobados. Para gobierno y administración, implica revisar estructuras, funciones, integración y funcionamiento de las comisiones, así como difundir la versión actualizada entre las dependencias participantes. También se deben ajustar procedimientos internos, calendarios de sesiones y responsabilidades administrativas. La entrada en vigor es inmediata, por lo que la coordinación interinstitucional debe atender la publicación sin demora y conservar los vínculos oficiales como referencia para la aplicación.",
+          "accion_recomendada": "Difunde los lineamientos actualizados entre las instancias integrantes."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000002",
+      "publicaciones_origen": [
+        "P000002"
+      ],
+      "tipo_publicacion": "aviso",
+      "topico_principal": {
+        "clave": "t-gap",
+        "nombre": "Gobierno y Administración Pública"
+      },
+      "topicos_secundarios": [
+        "SIPINNA",
+        "Manual de organización y operación",
+        "Protección integral de niñas, niños y adolescentes"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría de Gobernación"
+      ],
+      "fecha_publicacion": "2026-11-03",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Aviso de reformas al Manual de organización y operación del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes",
+      "subtitulo": "Reformas y adiciones aprobadas mediante Acuerdo SIPINNA/06/2025.",
+      "audiencia_objetivo": "Servidores públicos de las instancias integrantes del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes",
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "Se dan a conocer reformas y adiciones al Manual de Organización y Operación del Sistema.",
+        "Los cambios fueron aprobados mediante Acuerdo SIPINNA/06/2025, de fecha 15 de diciembre de 2025.",
+        "El aviso entra en vigor el mismo día de su publicación en el Diario Oficial de la Federación.",
+        "Los textos modificados se encuentran disponibles en los vínculos oficiales referidos en la nota."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "La Secretaría Ejecutiva del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes da a conocer reformas y adiciones al Manual de Organización y Operación del Sistema, aprobadas mediante Acuerdo SIPINNA/06/2025. El aviso entra en vigor el mismo día de su publicación y los textos modificados se encuentran en los vínculos oficiales referidos. Para el perfil legal y de cumplimiento, corresponde verificar la versión vigente del manual, identificar cambios en funciones, estructura y responsabilidades, actualizar matrices normativas y orientar a las áreas sobre la aplicación. También conviene conservar la evidencia de publicación y documentar la adopción de los cambios en los procedimientos internos.",
+          "accion_recomendada": "Actualiza la matriz normativa y verifica la versión vigente del manual."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "El aviso actualiza el manual de organización y operación del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes. Para gobierno y administración, implica revisar la estructura, funciones y responsabilidades de las unidades participantes, así como difundir la versión actualizada entre las instancias integrantes. También se deben ajustar procedimientos internos, flujos de trabajo y controles administrativos. La entrada en vigor es inmediata, por lo que la coordinación interinstitucional debe atender la publicación sin demora y conservar los vínculos oficiales como referencia para la aplicación.",
+          "accion_recomendada": "Difunde el manual actualizado entre las instancias integrantes."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000003",
+      "publicaciones_origen": [
+        "P000003"
+      ],
+      "tipo_publicacion": "acuerdo",
+      "topico_principal": {
+        "clave": "t-gap",
+        "nombre": "Gobierno y Administración Pública"
+      },
+      "topicos_secundarios": [
+        "Bienes inmuebles federales",
+        "SEDATU",
+        "Instituto de Administración y Avalúos de Bienes Nacionales"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría de Hacienda y Crédito Público",
+        "Secretaría de Desarrollo Agrario, Territorial y Urbano"
+      ],
+      "fecha_publicacion": "2026-11-03",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "Destino de inmuebles federales a la Secretaría de Desarrollo Agrario, Territorial y Urbano para oficinas centrales",
+      "subtitulo": "Inmuebles Oficinas Centrales Sedatu \"Reforma 362\" y \"Reforma 364\" en Paseo de la Reforma.",
+      "audiencia_objetivo": "Unidades responsables de bienes inmuebles federales y administración patrimonial",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "Se destinan a SEDATU los inmuebles federales Oficinas Centrales Sedatu \"Reforma 362\" y \"Reforma 364\".",
+        "Las superficies son de 555.75 y 1,470.16 metros cuadrados, respectivamente.",
+        "Los inmuebles se ubican en Paseo de la Reforma números 362 y 364, Colonia Juárez, Ciudad de México.",
+        "El acuerdo se emite por el Instituto de Administración y Avalúos de Bienes Nacionales."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El acuerdo destina dos inmuebles federales a la Secretaría de Desarrollo Agrario, Territorial y Urbano para oficinas centrales, con superficies y registros federales inmobiliarios identificados. Para legal y cumplimiento, corresponde verificar el fundamento, la descripción de los bienes, las condiciones de destino y la actualización del inventario de bienes inmuebles federales. También debe confirmarse que el uso propuesto sea compatible con la normativa aplicable y que se conserven las constancias oficiales de la publicación. No se identifican obligaciones adicionales para terceros ni modificaciones a ordenamientos jurídicos.",
+          "accion_recomendada": "Verifica el destino y actualiza el inventario de bienes inmuebles."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "La Secretaría de Hacienda y Crédito Público, a través del Instituto de Administración y Avalúos de Bienes Nacionales, destina inmuebles federales a SEDATU para sus oficinas centrales. Para gobierno y administración, implica registrar el cambio de destino, actualizar los controles patrimoniales y coordinar la entrega y uso de los inmuebles. La medida afecta la administración de bienes federales y requiere seguimiento de las unidades responsables. No modifica reglas aplicables a particulares ni genera obligaciones nuevas fuera de la administración pública federal.",
+          "accion_recomendada": "Actualiza el control patrimonial y registra el cambio de destino."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000004",
+      "publicaciones_origen": [
+        "P000004"
+      ],
+      "tipo_publicacion": "acuerdo",
+      "topico_principal": {
+        "clave": "t-gap",
+        "nombre": "Gobierno y Administración Pública"
+      },
+      "topicos_secundarios": [
+        "Bienes inmuebles federales",
+        "Secretaría de Marina",
+        "Instituto de Administración y Avalúos de Bienes Nacionales"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría de Hacienda y Crédito Público",
+        "Secretaría de Marina"
+      ],
+      "fecha_publicacion": "2026-11-03",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "Destino de inmueble federal a la Secretaría de Marina en Santa Rosalía, Baja California Sur",
+      "subtitulo": "Inmueble \"Sanatorio Naval de Santa Rosalía, B.C.S.\" con Registro Federal Inmobiliario 3-3488-0.",
+      "audiencia_objetivo": "Unidades responsables de bienes inmuebles federales y administración patrimonial",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "Se destina a la Secretaría de Marina el inmueble federal \"Sanatorio Naval de Santa Rosalía, B.C.S.\".",
+        "El inmueble tiene una superficie de 334.38 metros cuadrados.",
+        "Se ubica en Calle Las Flores número 19, Colonia Mesa México, Santa Rosalía, Mulegé, Baja California Sur.",
+        "El acuerdo se emite por el Instituto de Administración y Avalúos de Bienes Nacionales."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El acuerdo destina un inmueble federal denominado Sanatorio Naval de Santa Rosalía, Baja California Sur, a la Secretaría de Marina, con registro federal inmobiliario y superficie identificados. Para legal y cumplimiento, corresponde verificar el fundamento, la descripción del bien, las condiciones de destino y la actualización del inventario de bienes inmuebles federales. También debe confirmarse que el uso propuesto sea compatible con la normativa aplicable y que se conserven las constancias oficiales de la publicación. No se identifican obligaciones adicionales para terceros ni modificaciones a ordenamientos jurídicos.",
+          "accion_recomendada": "Verifica el destino y actualiza el inventario de bienes inmuebles."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "La Secretaría de Hacienda y Crédito Público, a través del Instituto de Administración y Avalúos de Bienes Nacionales, destina un inmueble federal a la Secretaría de Marina. Para gobierno y administración, implica registrar el cambio de destino, actualizar los controles patrimoniales y coordinar la entrega y uso del inmueble. La medida afecta la administración de bienes federales y requiere seguimiento de las unidades responsables. No modifica reglas aplicables a particulares ni genera obligaciones nuevas fuera de la administración pública federal.",
+          "accion_recomendada": "Actualiza el control patrimonial y registra el cambio de destino."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000005",
+      "publicaciones_origen": [
+        "P000005"
+      ],
+      "tipo_publicacion": "circular",
+      "topico_principal": {
+        "clave": "t-lic",
+        "nombre": "Licitaciones y Compras Públicas"
+      },
+      "topicos_secundarios": [
+        "Nulidad de resolución de sanción",
+        "Proveedores y licitantes",
+        "Tribunal Federal de Justicia Administrativa"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría Anticorrupción y Buen Gobierno"
+      ],
+      "fecha_publicacion": "2026-11-03",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Nulidad de resolución de sanción a proveedores y licitantes comunicada por la Secretaría Anticorrupción y Buen Gobierno",
+      "subtitulo": "Juicio contencioso administrativo número 7762/25-17-12-2 promovido por Flow & Low de México, S.A. de C.V.",
+      "audiencia_objetivo": "Dependencias y entidades de la Administración Pública Federal, entidades federativas, municipios y proveedores",
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "La Décimo Segunda Sala Regional del Tribunal Federal de Justicia Administrativa declaró la nulidad de una resolución de sanción a proveedores y licitantes.",
+        "La resolución anulada es la número T.O.I.C.07/1011 de 19 de marzo de 2025.",
+        "También se anuló la resolución originalmente recurrida de fecha 30 de octubre de 2024.",
+        "La circular comunica el resultado a las dependencias y entidades de la Administración Pública Federal y otras autoridades."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "La circular comunica a las dependencias y entidades de la administración pública federal, a la Fiscalía General de la República, entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México la nulidad, declarada por la Décima Segunda Sala Regional del Tribunal Federal de Justicia Administrativa, de una resolución de sanción a proveedores y licitantes. Para legal y cumplimiento, es relevante porque deja sin efectos la sanción original y la resolución recurrida, lo que puede modificar el estatus de la empresa en los registros de proveedores. Conviene revisar antecedentes, alcances de la sentencia y efectos sobre procedimientos administrativos similares, conservando la evidencia oficial y actualizando los controles de cumplimiento aplicables.",
+          "accion_recomendada": "Revisa los efectos de la nulidad y actualiza los registros de proveedores."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "La circular difunde a las dependencias públicas la nulidad de una resolución de sanción a proveedores y licitantes, emitida en un procedimiento administrativo. Para gobierno y administración, implica actualizar los sistemas de información de proveedores, comunicar el resultado a las áreas de contratación y evitar aplicar sanciones basadas en actos anulados. También conviene revisar los controles internos de los órganos internos de control y documentar las acciones de seguimiento. La medida no crea obligaciones nuevas para particulares, pero sí exige corrección administrativa en los registros oficiales.",
+          "accion_recomendada": "Actualiza los sistemas de proveedores y comunica el resultado."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000006",
+      "publicaciones_origen": [
+        "P000006"
+      ],
+      "tipo_publicacion": "acuerdo",
+      "topico_principal": {
+        "clave": "t-sal",
+        "nombre": "Salud"
+      },
+      "topicos_secundarios": [
+        "Convenio de coordinación en salud",
+        "Transferencia de insumos y recursos",
+        "Estado de Puebla"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría de Salud",
+        "Estado de Puebla"
+      ],
+      "fecha_publicacion": "2026-11-03",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de salud pública con el Estado de Puebla",
+      "subtitulo": "Transferencia de insumos y ministración de recursos presupuestarios federales para acciones de salud pública.",
+      "audiencia_objetivo": "Autoridades de salud federal y estatal, y áreas de planeación y finanzas",
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "Se modifica el Convenio Específico de Coordinación en materia de transferencia de insumos y recursos presupuestarios federales para salud pública.",
+        "El convenio se celebra entre la Secretaría de Salud y el Estado de Puebla.",
+        "Se ajustan las condiciones de ministración de recursos y transferencia de insumos.",
+        "El texto completo debe consultarse en la fuente oficial para confirmar montos y obligaciones."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": true,
+          "resumen": "El segundo convenio modificatorio ajusta la transferencia de insumos y la ministración de recursos presupuestarios federales para acciones de salud pública en Puebla. Para finanzas y crédito, es relevante porque modifica flujos de recursos, obligaciones de comprobación y calendarios de transferencia entre la Secretaría de Salud y el estado. Conviene revisar montos, anexos, obligaciones de reporte y efectos presupuestarios, así como verificar la vigencia y las firmas de las partes. La publicación no detalla cifras en la nota, por lo que debe consultarse el convenio completo antes de tomar decisiones de gasto o programación financiera.",
+          "accion_recomendada": "Revisa montos, anexos y obligaciones de comprobación del convenio."
+        },
+        {
+          "perfil": "LC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "El convenio modificatorio entre la Secretaría de Salud y el Estado de Puebla ajusta la coordinación para transferir insumos y recursos federales destinados a salud pública. Para gobierno y administración, implica actualizar los acuerdos de coordinación, verificar responsabilidades de cada parte y asegurar la continuidad de los programas. También conviene difundir los cambios a las áreas operativas y documentar la vigencia del instrumento. La publicación anuncia el convenio, pero el texto completo debe consultarse en la fuente oficial para confirmar condiciones y alcances.",
+          "accion_recomendada": "Actualiza el acuerdo de coordinación y verifica responsabilidades."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000007",
+      "publicaciones_origen": [
+        "P000007"
+      ],
+      "tipo_publicacion": "acuerdo",
+      "topico_principal": {
+        "clave": "t-viv",
+        "nombre": "Vivienda y Desarrollo Urbano"
+      },
+      "topicos_secundarios": [
+        "Programa de Vivienda Social",
+        "Reglas de Operación",
+        "Ejercicio fiscal 2026"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría de Desarrollo Agrario, Territorial y Urbano",
+        "Comisión Nacional de Vivienda",
+        "Financiera para el Bienestar"
+      ],
+      "fecha_publicacion": "2026-11-03",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Modificación de las Reglas de Operación del Programa de Vivienda Social para el ejercicio fiscal 2026",
+      "subtitulo": "Modificación aprobada por la Junta de Gobierno de la Comisión Nacional de Vivienda.",
+      "audiencia_objetivo": "Beneficiarios, ejecutores y áreas operativas del Programa de Vivienda Social",
+      "nivel_impacto": "alto",
+      "puntos_clave": [
+        "Se modifican las Reglas de Operación del Programa de Vivienda Social para el ejercicio fiscal 2026.",
+        "La modificación fue aprobada por la Junta de Gobierno de la Comisión Nacional de Vivienda mediante Acuerdo JG-6E-290726-04.",
+        "Las reglas quedan conforme al anexo publicado en la URL del documento.",
+        "El acuerdo entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": true,
+          "resumen": "El acuerdo modifica las Reglas de Operación del Programa de Vivienda Social para el ejercicio fiscal 2026 conforme a un anexo disponible en la fuente. Para finanzas y crédito, es relevante porque puede cambiar montos, subsidios, criterios de elegibilidad y obligaciones de comprobación vinculadas al programa. Conviene revisar el anexo, verificar impactos presupuestarios y asegurar que la programación financiera y los controles de gasto se ajusten a las nuevas reglas. La entrada en vigor es el día siguiente de la publicación, por lo que la revisión financiera debe realizarse de inmediato.",
+          "accion_recomendada": "Revisa el anexo y ajusta la programación financiera del programa."
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El acuerdo modifica las Reglas de Operación del Programa de Vivienda Social para 2026 y remite al anexo publicado por la Secretaría. Para legal y cumplimiento, corresponde revisar la versión vigente de las reglas, identificar cambios en requisitos, procedimientos y obligaciones de los beneficiarios, y actualizar matrices normativas y documentos de control. También debe verificarse la entrada en vigor y comunicar los cambios a las áreas responsables. Como el texto completo de la modificación se encuentra en el anexo, conviene consultarlo antes de emitir criterios de aplicación.",
+          "accion_recomendada": "Revisa las reglas vigentes y actualiza la matriz normativa."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "El acuerdo modifica las reglas del Programa de Vivienda Social para 2026, aprobado por la Junta de Gobierno de la Comisión Nacional de Vivienda. Para gobierno y administración, implica actualizar procedimientos operativos, capacitar al personal y difundir las nuevas reglas a los ejecutores del programa. También debe ajustarse la supervisión y el seguimiento de los apoyos. La publicación no transcribe el anexo en la nota, por lo que la implementación debe basarse en el documento oficial referido para evitar interpretaciones incorrectas.",
+          "accion_recomendada": "Actualiza los procedimientos operativos y capacita al personal."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000008",
+      "publicaciones_origen": [
+        "P000008"
+      ],
+      "tipo_publicacion": "decreto",
+      "topico_principal": {
+        "clave": "t-ef",
+        "nombre": "Economía y Finanzas"
+      },
+      "topicos_secundarios": [
+        "Cuenta Pública 2024",
+        "Revisión legislativa",
+        "Desempeño fiscal"
+      ],
+      "dependencias_involucradas": [
+        "Cámara de Diputados"
+      ],
+      "fecha_publicacion": "2026-11-03",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "Decreto relativo a la revisión de la Cuenta de la Hacienda Pública Federal correspondiente al Ejercicio Fiscal 2024",
+      "subtitulo": "Revisión legislativa de la Cuenta Pública de la Administración Pública Federal 2024.",
+      "audiencia_objetivo": "Dependencias públicas, analistas fiscales y áreas de planeación",
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "La Cámara de Diputados aprueba la revisión de la Cuenta Pública de la Administración Pública Federal 2024.",
+        "En 2024 la actividad económica registró un crecimiento real anual de 1.5%.",
+        "Los ingresos presupuestarios del sector público ascendieron a 7 billones 492 mil 928.9 millones de pesos.",
+        "La publicación es informativa y no modifica ordenamientos jurídicos."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": true,
+          "resumen": "El decreto aprueba la revisión de la Cuenta de la Hacienda Pública Federal correspondiente al ejercicio fiscal 2024 y presenta datos sobre actividad económica, ingresos presupuestarios, recaudación y gasto. Para finanzas y crédito, es relevante porque permite analizar el desempeño fiscal, la recaudación tributaria y petrolera, y las tendencias de ingresos y gasto público. Conviene usar esta información para planeación financiera, evaluación de riesgos y comparación con ejercicios anteriores. No establece obligaciones nuevas para particulares, pero sí aporta insumos para el análisis económico y la toma de decisiones institucionales.",
+          "accion_recomendada": "Analiza los resultados fiscales y actualiza la planeación financiera."
+        },
+        {
+          "perfil": "LC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "El decreto contiene la revisión legislativa de la Cuenta Pública 2024, con indicadores macroeconómicos y resultados presupuestarios. Para gobierno y administración, es útil para evaluar la gestión pública, la eficiencia del gasto y el cumplimiento de metas institucionales. Conviene revisar las conclusiones, identificar áreas de mejora, documentar el seguimiento de observaciones y fortalecer la transparencia. La publicación es informativa y no modifica ordenamientos jurídicos, pero puede orientar acciones de control interno en las dependencias y la toma de decisiones administrativas.",
+          "accion_recomendada": "Revisa conclusiones y da seguimiento a observaciones."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000009",
+      "publicaciones_origen": [
+        "P000009"
+      ],
+      "tipo_publicacion": "resolucion",
+      "topico_principal": {
+        "clave": "t-leg",
+        "nombre": "Legislación y Justicia"
+      },
+      "topicos_secundarios": [
+        "Acción de inconstitucionalidad",
+        "Derechos indígenas y afromexicanos",
+        "Suprema Corte de Justicia de la Nación"
+      ],
+      "dependencias_involucradas": [
+        "Suprema Corte de Justicia de la Nación"
+      ],
+      "fecha_publicacion": "2026-11-03",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Sentencia del Tribunal Pleno de la SCJN en la Acción de Inconstitucionalidad 124/2025",
+      "subtitulo": "Incluye votos particulares de ministras y ministro.",
+      "audiencia_objetivo": "Autoridades públicas, comunidades indígenas y áreas jurídicas",
+      "nivel_impacto": "alto",
+      "puntos_clave": [
+        "El Tribunal Pleno resolvió la Acción de Inconstitucionalidad 124/2025 promovida por la Comisión Estatal de Derechos Humanos de Baja California Sur.",
+        "Se declaró inválido un requisito de la Ley de Derechos de las Personas, Pueblos y Comunidades Indígenas y Afromexicanas de Baja California Sur.",
+        "La publicación incluye la sentencia y los votos particulares.",
+        "El análisis debe basarse en el texto oficial para evitar interpretaciones parciales."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El Tribunal Pleno de la Suprema Corte de Justicia de la Nación resolvió la Acción de Inconstitucionalidad 124/2025 promovida por la Comisión Estatal de Derechos Humanos de Baja California Sur y declaró inválido un requisito de la Ley de Derechos de las Personas, Pueblos y Comunidades Indígenas y Afromexicanas de esa entidad. Para legal y cumplimiento, es relevante porque afecta el acceso a cargos de representación indígena y puede tener efectos en procesos similares. Conviene analizar la sentencia, los votos particulares y su aplicación, así como actualizar criterios jurídicos y documentos de cumplimiento relacionados con derechos indígenas.",
+          "accion_recomendada": "Analiza la sentencia y actualiza criterios de cumplimiento."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "La sentencia del Tribunal Pleno modifica el marco de aplicación de una ley estatal sobre derechos indígenas y afromexicanos. Para gobierno y administración, implica revisar procedimientos de designación, capacitación de servidores públicos y coordinación con autoridades estatales. También conviene documentar los cambios y comunicarlos a las áreas responsables de atención a pueblos indígenas. La publicación incluye la sentencia y los votos particulares, por lo que su análisis debe basarse en el texto oficial para evitar interpretaciones parciales y decisiones administrativas incorrectas.",
+          "accion_recomendada": "Comunica la sentencia a las áreas responsables de atención indígena."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000010",
+      "publicaciones_origen": [
+        "P000010"
+      ],
+      "tipo_publicacion": "indicador_diario",
+      "topico_principal": {
+        "clave": "t-ef",
+        "nombre": "Economía y Finanzas"
+      },
+      "topicos_secundarios": [
+        "Tipo de cambio",
+        "Obligaciones en moneda extranjera",
+        "Banco de México"
+      ],
+      "dependencias_involucradas": [
+        "Banco de México"
+      ],
+      "fecha_publicacion": "2026-11-03",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera",
+      "subtitulo": "Tipo de cambio obtenido el 30 de octubre de 2026.",
+      "audiencia_objetivo": "Empresas con obligaciones en moneda extranjera y áreas de tesorería",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "El Banco de México informa el tipo de cambio para solventar obligaciones en moneda extranjera pagaderas en México.",
+        "El tipo de cambio obtenido fue de $18.7962 M.N. por un dólar de los Estados Unidos.",
+        "La equivalencia con otras monedas se calculará conforme a las cotizaciones internacionales.",
+        "La publicación es un indicador diario y no modifica ordenamientos jurídicos."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": true,
+          "resumen": "El Banco de México informa el tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana, correspondiente al 30 de octubre de 2026. Para comercio exterior, es relevante porque afecta la valoración de operaciones, contratos y obligaciones en dólares. Conviene usar la cotización oficial para calcular pagos, actualizar sistemas de comercio exterior y verificar la equivalencia con otras monedas mediante las instituciones de crédito. La tasa se determina conforme a la Circular 3/2012 y debe tomarse como referencia para las obligaciones del día correspondiente.",
+          "accion_recomendada": "Usa la cotización oficial para valorar operaciones en moneda extranjera."
+        },
+        {
+          "perfil": "FC",
+          "relevante": true,
+          "resumen": "El Banco de México publica el tipo de cambio para solventar obligaciones en moneda extranjera pagaderas en México. Para finanzas y crédito, es relevante para la contabilidad, la tesorería y la valuación de pasivos y activos en dólares. Conviene registrar la cotización, actualizar sistemas financieros y verificar la conversión de otras monedas conforme a las reglas aplicables. La publicación es un indicador diario y no modifica ordenamientos jurídicos, pero constituye referencia oficial para el cierre de operaciones y la gestión de riesgo cambiario.",
+          "accion_recomendada": "Registra la cotización y actualiza la valuación de pasivos en dólares."
+        },
+        {
+          "perfil": "LC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000011",
+      "publicaciones_origen": [
+        "P000011"
+      ],
+      "tipo_publicacion": "indicador_diario",
+      "topico_principal": {
+        "clave": "t-ef",
+        "nombre": "Economía y Finanzas"
+      },
+      "topicos_secundarios": [
+        "Tasas de interés interbancarias",
+        "TIIE",
+        "Banco de México"
+      ],
+      "dependencias_involucradas": [
+        "Banco de México"
+      ],
+      "fecha_publicacion": "2026-11-03",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "Tasas de interés interbancarias de equilibrio",
+      "subtitulo": "Tasas a 28, 91 y 182 días correspondientes al 30 de octubre de 2026.",
+      "audiencia_objetivo": "Instituciones financieras y áreas de tesorería",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "El Banco de México informa las tasas de interés interbancarias de equilibrio en moneda nacional.",
+        "La TIIE a 28 días fue de 6.8061%, a 91 días de 6.8439% y a 182 días de 6.8990%.",
+        "Las tasas se determinan conforme al procedimiento de la Circular 3/2012.",
+        "La publicación es un indicador diario y no modifica ordenamientos jurídicos."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": true,
+          "resumen": "El Banco de México informa las tasas de interés interbancarias de equilibrio a 28, 91 y 182 días, correspondientes al 30 de octubre de 2026. Para finanzas y crédito, es relevante para la valuación de instrumentos, el costo de fondeo y la comparación con tasas internas. Conviene registrar las tasas, actualizar modelos financieros y verificar su aplicación en contratos y obligaciones vinculadas. La publicación es un indicador diario determinado conforme al procedimiento de la Circular 3/2012 y debe tomarse como referencia oficial para la fecha correspondiente.",
+          "accion_recomendada": "Registra las tasas y actualiza la valuación de instrumentos."
+        },
+        {
+          "perfil": "LC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000012",
+      "publicaciones_origen": [
+        "P000012"
+      ],
+      "tipo_publicacion": "indicador_diario",
+      "topico_principal": {
+        "clave": "t-ef",
+        "nombre": "Economía y Finanzas"
+      },
+      "topicos_secundarios": [
+        "TIIE de fondeo",
+        "Tasa a un día",
+        "Banco de México"
+      ],
+      "dependencias_involucradas": [
+        "Banco de México"
+      ],
+      "fecha_publicacion": "2026-11-03",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario",
+      "subtitulo": "Tasa determinada el 29 de octubre de 2026.",
+      "audiencia_objetivo": "Instituciones financieras y áreas de tesorería",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "El Banco de México publica la TIIE de Fondeo a un día hábil bancario en moneda nacional.",
+        "La tasa determinada fue de 6.55 por ciento.",
+        "Se determina conforme al procedimiento de la Circular 3/2012.",
+        "La publicación es un indicador diario y no modifica ordenamientos jurídicos."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": true,
+          "resumen": "El Banco de México publica la tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario, determinada el 29 de octubre de 2026. Para finanzas y crédito, es relevante para el costo de fondeo a corto plazo, la tesorería y la valuación de operaciones overnight. Conviene registrar la tasa, actualizar sistemas de gestión de liquidez y verificar su aplicación en contratos indexados. La publicación es un indicador diario y no modifica ordenamientos jurídicos, pero constituye referencia oficial para la fecha correspondiente.",
+          "accion_recomendada": "Registra la tasa y actualiza la gestión de liquidez."
+        },
+        {
+          "perfil": "LC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000013",
+      "publicaciones_origen": [
+        "P000013"
+      ],
+      "tipo_publicacion": "circular",
+      "topico_principal": {
+        "clave": "t-seg",
+        "nombre": "Seguridad Pública y Protección Civil"
+      },
+      "topicos_secundarios": [
+        "Cumplimiento a recomendación CNDH",
+        "Recomendación 98VG/2023",
+        "Fiscalía General de la República"
+      ],
+      "dependencias_involucradas": [
+        "Fiscalía General de la República"
+      ],
+      "fecha_publicacion": "2026-11-03",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Oficio Circular C/002/2026 sobre cumplimiento al punto recomendatorio quinto de la Recomendación 98VG/2023 de la CNDH",
+      "subtitulo": "Instrucción a las unidades administrativas de la Fiscalía General de la República y del INACIPE.",
+      "audiencia_objetivo": "Unidades administrativas de la Fiscalía General de la República y del Instituto Nacional de Ciencias Penales",
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "La Fiscalía General de la República emite el Oficio Circular C/002/2026.",
+        "Se instruye el cumplimiento del punto recomendatorio quinto de la Recomendación 98VG/2023 de la CNDH.",
+        "Se dirige a las unidades administrativas de la Fiscalía y del Instituto Nacional de Ciencias Penales.",
+        "La circular genera obligaciones administrativas internas de cumplimiento y acreditación."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El oficio circular de la Fiscalía General de la República instruye a las unidades administrativas de la Fiscalía y del Instituto Nacional de Ciencias Penales sobre el cumplimiento del punto recomendatorio quinto de la Recomendación 98VG/2023 de la Comisión Nacional de los Derechos Humanos. Para legal y cumplimiento, es relevante porque establece acciones para atender una recomendación en materia de derechos humanos, con efectos en procedimientos, capacitación y controles internos. Conviene revisar las instrucciones, identificar responsables y verificar el cumplimiento documentado. La circular no modifica leyes, pero sí genera obligaciones administrativas internas que deben acreditarse.",
+          "accion_recomendada": "Revisa las instrucciones y documenta el cumplimiento."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "La Fiscalía General de la República emite un oficio circular para cumplir el punto recomendatorio quinto de la Recomendación 98VG/2023 de la CNDH, dirigido a las unidades administrativas de la Fiscalía y del INACIPE. Para gobierno y administración, implica coordinar la implementación, asignar responsables, capacitar al personal y dar seguimiento a la acreditación del cumplimiento. También conviene actualizar procedimientos internos y conservar la evidencia de las acciones realizadas. La medida es de carácter administrativo y no crea obligaciones para particulares.",
+          "accion_recomendada": "Coordina la implementación y asigna responsables."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000014",
+      "publicaciones_origen": [
+        "P000014"
+      ],
+      "tipo_publicacion": "circular",
+      "topico_principal": {
+        "clave": "t-seg",
+        "nombre": "Seguridad Pública y Protección Civil"
+      },
+      "topicos_secundarios": [
+        "Cumplimiento a recomendación CNDH",
+        "Recomendación 98VG/2023",
+        "Fiscalía General de la República"
+      ],
+      "dependencias_involucradas": [
+        "Fiscalía General de la República"
+      ],
+      "fecha_publicacion": "2026-11-03",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Oficio Circular C/003/2026 sobre cumplimiento al punto recomendatorio quinto de la Recomendación 98VG/2023 de la CNDH",
+      "subtitulo": "Instrucción a las unidades administrativas de la Fiscalía General de la República y del INACIPE.",
+      "audiencia_objetivo": "Unidades administrativas de la Fiscalía General de la República y del Instituto Nacional de Ciencias Penales",
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "La Fiscalía General de la República emite el Oficio Circular C/003/2026.",
+        "Se instruye el cumplimiento del punto recomendatorio quinto de la Recomendación 98VG/2023 de la CNDH.",
+        "Se dirige a las unidades administrativas de la Fiscalía y del Instituto Nacional de Ciencias Penales.",
+        "La circular genera obligaciones administrativas internas de cumplimiento y acreditación."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El oficio circular de la Fiscalía General de la República instruye a las unidades administrativas de la Fiscalía y del Instituto Nacional de Ciencias Penales sobre el cumplimiento del punto recomendatorio quinto de la Recomendación 98VG/2023 de la Comisión Nacional de los Derechos Humanos. Para legal y cumplimiento, es relevante porque establece acciones para atender una recomendación en materia de derechos humanos, con efectos en procedimientos, capacitación y controles internos. Conviene revisar las instrucciones, identificar responsables y verificar el cumplimiento documentado. La circular no modifica leyes, pero sí genera obligaciones administrativas internas que deben acreditarse.",
+          "accion_recomendada": "Revisa las instrucciones y documenta el cumplimiento."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "La Fiscalía General de la República emite un oficio circular para cumplir el punto recomendatorio quinto de la Recomendación 98VG/2023 de la CNDH, dirigido a las unidades administrativas de la Fiscalía y del INACIPE. Para gobierno y administración, implica coordinar la implementación, asignar responsables, capacitar al personal y dar seguimiento a la acreditación del cumplimiento. También conviene actualizar procedimientos internos y conservar la evidencia de las acciones realizadas. La medida es de carácter administrativo y no crea obligaciones para particulares.",
+          "accion_recomendada": "Coordina la implementación y asigna responsables."
+        }
+      ]
+    }
+  ]
+}
