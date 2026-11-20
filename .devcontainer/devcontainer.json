@@ -1,0 +1,1 @@
+{"image":"mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm","name":"opencode-codespace","postCreateCommand":"curl -fsSL https://opencode.ai/v2/install | bash","remoteUser":"node"}
