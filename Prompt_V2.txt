@@ -1,0 +1,491 @@
+﻿# Prompt de ingesta multifuente y trazabilidad juridica de Clever Ulpiano version 2
+
+
+## Objetivo
+
+
+Captura todas las publicaciones oficiales dentro del rango solicitado, conserva los datos fuente necesarios para su ingesta historica y genera tarjetas editoriales clasificadas sin perder la relacion con las publicaciones originales.
+
+
+La salida debe separar estrictamente:
+
+
+1. Ediciones oficiales.
+2. Publicaciones originales.
+3. Reformas o cambios juridicos observados en cada publicacion.
+4. Tarjetas editoriales derivadas.
+
+
+## Datos de entrada
+
+
+```text
+FUENTES: [DOF | GACETA | NOM | ESTATAL, una o varias]
+FECHA_INICIO: [AAAA-MM-DD]
+FECHA_FIN: [AAAA-MM-DD]
+ENTIDADES_FEDERATIVAS: [claves de entidad cuando FUENTES incluya ESTATAL; vacio para todas]
+```
+
+
+Si `FECHA_INICIO` o `FECHA_FIN` esta vacia, usa la fecha actual. No solicites al usuario articulos, capturas, JSON ni URLs adicionales.
+
+
+## Reglas globales
+
+
+1. La salida final debe ser exclusivamente un objeto JSON valido. No incluyas Markdown, comentarios, diagnosticos ni texto fuera del JSON.
+2. No inventes publicaciones, dependencias, identificadores oficiales, textos juridicos, fechas, perfiles, topicos ni URLs.
+3. Conserva literalmente los titulos, subtitulos, nombres de dependencias, identificadores oficiales, fechas y textos juridicos obtenidos de la fuente.
+4. Usa `null` cuando un valor escalar no exista o no pueda determinarse. No uses `No aplica`, `N/A`, `unknown`, cadenas vacias ni valores inventados.
+5. Usa `[]` cuando un arreglo no tenga elementos. Nunca sustituyas un arreglo u objeto por `null` o una cadena.
+6. Procesa todas las publicaciones del rango. No omitas contenido por cantidad, extension o baja relevancia editorial.
+7. Una publicacion original siempre debe conservarse aunque posteriormente sea agrupada con otras en una tarjeta editorial.
+8. Registra capturas parciales, fuentes inaccesibles y datos faltantes mediante los campos `estado`, `estado_captura`, `estado_extraccion` y `mensajes`.
+9. No calcules hashes, UUID, fechas de ingesta, claves primarias de base de datos ni identificadores globales. El servidor los genera durante la ingesta.
+10. Las referencias `E0001`, `P000001` y `T000001` son identificadores locales dentro de un reporte. Deben ser unicos y consistentes en todo el JSON.
+11. Todo texto juridico en `texto_anterior`, `texto_nuevo` y `texto_transitorio` debe ser una transcripcion literal. Nunca lo resumas ni lo completes por inferencia.
+12. Redacta el contenido editorial en espanol claro. Se permiten nombres propios, siglas y URLs en su idioma original.
+13. Verifica que exista un espacio entre palabras y cifras. Ejemplo correcto: `articulo 112`; incorrecto: `articulo112`.
+14. No agregues propiedades distintas de las definidas en este contrato.
+
+
+## Fuentes oficiales
+
+
+### DOF
+
+
+- Portal: `https://dof.gob.mx/#gsc.tab=0`
+- Captura por separado las ediciones Matutina, Vespertina, Extraordinaria, Alcance y Suplemento que existan.
+- Usa la URL real de `nota_detalle` y, cuando exista, la URL del PDF o documento oficial.
+- Captura el codigo de nota del DOF como `identificador_oficial`.
+
+
+### Gaceta Parlamentaria
+
+
+- Portal: `https://gaceta.diputados.gob.mx/`
+- Separa Sesion Ordinaria, Extraordinaria, Comision Permanente y Vespertina.
+- Conserva folio, numero de gaceta o identificador oficial cuando exista.
+
+
+### Normas Oficiales Mexicanas
+
+
+- Usa el catalogo o publicacion oficial correspondiente.
+- Conserva la clave completa de la NOM, proyecto, modificacion o cancelacion como `identificador_oficial`.
+
+
+### Publicaciones estatales
+
+
+- Usa exclusivamente el portal oficial de la entidad federativa.
+- Conserva entidad, tomo, numero, seccion, alcance y folio cuando existan.
+
+
+Si una edicion o sesion no existe, registra el aviso en `fuentes[].mensajes` y continua. Si una fuente se consulto correctamente pero no tuvo publicaciones, usa el estado `sin_publicaciones`. No uses ese estado cuando la captura haya fallado.
+
+
+## Catalogos cerrados
+
+
+### Estados de reporte y fuente
+
+
+- `completado`
+- `parcial`
+- `sin_publicaciones`
+- `error`
+- `no_procesada`
+
+
+### Estados de captura
+
+
+- `completa`
+- `parcial`
+- `sin_contenido`
+- `error`
+
+
+### Estados de extraccion juridica
+
+
+- `completa`
+- `incompleta`
+- `por_revisar`
+
+
+### Impacto
+
+
+- `critico`
+- `alto`
+- `medio`
+- `bajo`
+
+
+Evalua alcance, personas afectadas, obligaciones nuevas, consecuencias economicas, sanciones y urgencia.
+
+
+### Tipos de publicacion
+
+
+- `indicador_diario`
+- `nom`
+- `acuerdo`
+- `convocatoria`
+- `decreto`
+- `aviso`
+- `reglamento`
+- `resolucion`
+- `circular`
+- `manual`
+- `lineamiento`
+- `iniciativa`
+- `dictamen`
+- `minuta`
+- `proposicion`
+- `punto_de_acuerdo`
+- `comunicacion`
+- `gaceta`
+- `otro`
+
+
+### Tipos de cambio juridico
+
+
+- `reforma`
+- `adicion`
+- `derogacion`
+- `sustitucion`
+- `modificacion`
+- `expedicion`
+- `abrogacion`
+- `aclaracion`
+- `otro`
+
+
+### Clasificacion de reforma
+
+
+- `reforma_normativa`
+- `no_aplica`
+- `por_revisar`
+
+
+### Perfiles
+
+
+- `CE`: comercio exterior.
+- `FC`: finanzas y credito.
+- `LC`: legal y cumplimiento.
+- `L`: laboral.
+- `GA`: gobierno y administracion.
+
+
+Cada tarjeta debe incluir los cinco perfiles exactamente una vez y en el orden `CE`, `FC`, `LC`, `L`, `GA`.
+
+
+### Topicos principales
+
+
+| Clave | Nombre |
+| --- | --- |
+| `t-gap` | Gobierno y Administración Pública |
+| `t-leg` | Legislación y Justicia |
+| `t-ef` | Economía y Finanzas |
+| `t-fis` | Impuestos y Fiscal |
+| `t-cex` | Comercio Exterior |
+| `t-sal` | Salud |
+| `t-edu` | Educación |
+| `t-tra` | Trabajo y Seguridad Social |
+| `t-ene` | Energía |
+| `t-marn` | Medio Ambiente y Recursos Naturales |
+| `t-inf` | Infraestructura y Transporte |
+| `t-tel` | Telecomunicaciones y Tecnología |
+| `t-seg` | Seguridad Pública y Protección Civil |
+| `t-agr` | Agricultura y Desarrollo Rural |
+| `t-viv` | Vivienda y Desarrollo Urbano |
+| `t-pso` | Programas Sociales |
+| `t-ind` | Industria y Competitividad |
+| `t-nom` | Normas Oficiales Mexicanas |
+| `t-lic` | Licitaciones y Compras Públicas |
+| `t-con` | Convocatorias y Avisos |
+
+
+No crees topicos fuera de este catalogo. `topicos_secundarios` puede contener hasta tres cadenas concretas derivadas de la publicacion.
+
+
+## Captura de publicaciones originales
+
+
+Por cada publicacion oficial captura:
+
+
+- Referencia local unica `ref_publicacion` con formato `P` y seis digitos.
+- Identificador oficial real cuando exista.
+- Titulo y subtitulo literales.
+- Resumen oficial literal cuando la fuente lo proporcione.
+- URL de detalle y URL del documento descargable cuando exista.
+- Fecha y hora oficiales.
+- Dependencia emisora.
+- Tipo de publicacion.
+- Seccion, tomo, apartado y alcance.
+- Clasificacion de reforma.
+- Todas las reformas o cambios juridicos detectados.
+
+
+Descarta una publicacion solamente cuando falten simultaneamente titulo y URL oficial despues de reintentar la captura. Registra el descarte en `mensajes`.
+
+
+## Extraccion juridica
+
+
+Una publicacion puede contener cero o varias reformas. Crea un elemento de `reformas` por cada articulo, fraccion, inciso o apartado afectado.
+
+
+Para cada reforma:
+
+
+1. Conserva el nombre completo del ordenamiento.
+2. Separa articulo, fraccion, inciso y apartado.
+3. Clasifica el tipo de cambio.
+4. Transcribe el texto anterior solo cuando aparezca en la fuente.
+5. Transcribe el texto nuevo completo cuando aparezca en la fuente.
+6. Conserva los articulos transitorios relacionados.
+7. Captura la fecha de entrada en vigor y el fundamento que la establece.
+8. Indica pagina, seccion o parrafo en `ubicacion_fuente` cuando pueda determinarse.
+9. Si el ordenamiento o el articulo no puede identificarse con certeza, usa `estado_extraccion: "por_revisar"` y explica el problema en `mensaje_revision`.
+10. No conviertas una descripcion general en texto legal literal.
+
+
+Cuando no haya cambios normativos, usa `clasificacion_reforma: "no_aplica"` y `reformas: []`.
+
+
+## Tarjetas editoriales
+
+
+Genera una tarjeta por publicacion, excepto cuando varias publicaciones del mismo tramite, dependencia y fecha solo difieran en nombres propios. En ese caso puedes agruparlas en una tarjeta, pero debes conservar todas las publicaciones originales.
+
+
+Cada tarjeta debe incluir:
+
+
+- Una referencia local unica `ref_tarjeta` con formato `T` y seis digitos.
+- Todas las referencias de publicaciones que la originaron.
+- Tipo de publicacion.
+- Topico principal y hasta tres topicos secundarios.
+- Dependencias involucradas.
+- Fecha y hora de publicacion de referencia.
+- Accion requerida como booleano.
+- Titulo editorial fiel a la fuente.
+- Subtitulo.
+- Audiencia objetivo concreta.
+- Nivel de impacto.
+- Entre tres y cinco puntos clave.
+- Los cinco perfiles.
+
+
+Para cada perfil:
+
+
+- Si `relevante` es `true`, `resumen` debe contener entre 80 y 120 palabras y `accion_recomendada` debe ser una instruccion concreta en imperativo.
+- Si `relevante` es `false`, `resumen` y `accion_recomendada` deben ser `null`.
+
+
+No incluyas `semana`, UTM, indices de topicos ni conteos por topico en las tarjetas. Son datos derivados que la aplicacion calcula a partir de fechas, perfiles y topicos.
+
+
+## Contrato JSON obligatorio
+
+
+La raiz debe contener exactamente estas propiedades y en este orden logico:
+
+
+1. `version_contrato`
+2. `reporte`
+3. `fuentes`
+4. `ediciones`
+5. `tarjetas`
+
+
+```json
+{
+  "version_contrato": "2.0",
+  "reporte": {
+    "nombre": "Clever Ulpiano",
+    "titulo": "Reporte clasificado de publicaciones oficiales",
+    "fecha_inicio": "AAAA-MM-DD",
+    "fecha_fin": "AAAA-MM-DD",
+    "estado": "completado",
+    "mensajes": [],
+    "totales": {
+      "ediciones": 1,
+      "publicaciones": 1,
+      "tarjetas": 1,
+      "reformas": 1
+    }
+  },
+  "fuentes": [
+    {
+      "fuente": "DOF",
+      "estado": "completado",
+      "mensajes": [],
+      "n_ediciones": 1,
+      "n_publicaciones": 1,
+      "n_tarjetas": 1
+    }
+  ],
+  "ediciones": [
+    {
+      "ref_edicion": "E0001",
+      "fuente": "DOF",
+      "jurisdiccion": "federal",
+      "entidad_federativa": null,
+      "tipo": "Matutina",
+      "fecha_publicacion": "AAAA-MM-DD",
+      "url_oficial": "https://www.dof.gob.mx/...",
+      "estado_captura": "completa",
+      "mensajes": [],
+      "publicaciones": [
+        {
+          "ref_publicacion": "P000001",
+          "identificador_oficial": "CODIGO-OFICIAL",
+          "titulo": "Titulo oficial literal",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://www.dof.gob.mx/nota_detalle.php?...",
+          "url_documento": null,
+          "fecha_publicacion": "AAAA-MM-DD",
+          "hora_publicacion": null,
+          "dependencia": "Dependencia emisora",
+          "tipo_publicacion": "acuerdo",
+          "seccion": null,
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "reforma_normativa",
+          "reformas": [
+            {
+              "ordenamiento": "Nombre completo del ordenamiento",
+              "articulo": "35 Bis",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": "Texto oficial completo",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "AAAA-MM-DD",
+              "fundamento_vigencia": "Articulo Primero Transitorio",
+              "ubicacion_fuente": "Pagina 4",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            }
+          ],
+          "id_tarjetas": ["T000001"]
+        }
+      ]
+    }
+  ],
+  "tarjetas": [
+    {
+      "ref_tarjeta": "T000001",
+      "publicaciones_origen": ["P000001"],
+      "tipo_publicacion": "acuerdo",
+      "topico_principal": {
+        "clave": "t-gap",
+        "nombre": "Gobierno y Administración Pública"
+      },
+      "topicos_secundarios": [],
+      "dependencias_involucradas": ["Dependencia emisora"],
+      "fecha_publicacion": "AAAA-MM-DD",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "Titulo editorial fiel a la publicacion",
+      "subtitulo": null,
+      "audiencia_objetivo": null,
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "Punto clave 1",
+        "Punto clave 2",
+        "Punto clave 3"
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "Esta publicacion modifica el articulo 35 Bis del ordenamiento indicado y establece obligaciones que deben revisarse antes de su entrada en vigor. Para el perfil legal y de cumplimiento, el cambio exige identificar procesos internos afectados, responsables, documentos y controles relacionados. Tambien debe verificarse el fundamento transitorio, la fecha efectiva y cualquier diferencia entre el texto anterior y el nuevo. Conviene conservar la evidencia oficial, actualizar la matriz normativa, comunicar el cambio a las areas involucradas y documentar la decision adoptada para futuras auditorias y revisiones de cumplimiento.",
+          "accion_recomendada": "Revisa las obligaciones y documenta los cambios aplicables."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    }
+  ]
+}
+```
+
+
+## Reglas de integridad
+
+
+Antes de emitir el JSON verifica:
+
+
+1. La raiz contiene exactamente `version_contrato`, `reporte`, `fuentes`, `ediciones` y `tarjetas`.
+2. `version_contrato` es exactamente `2.0`.
+3. Todas las referencias `ref_edicion`, `ref_publicacion` y `ref_tarjeta` son unicas dentro del reporte.
+4. Cada publicacion esta dentro de exactamente una edicion.
+5. Cada valor de `publicaciones[].id_tarjetas` apunta a una tarjeta existente.
+6. Cada valor de `tarjetas[].publicaciones_origen` apunta a una publicacion existente.
+7. Toda publicacion valida esta asociada al menos a una tarjeta.
+8. Cuando exista agrupacion editorial, todas las publicaciones originales permanecen en `ediciones[].publicaciones`.
+9. Los totales del reporte coinciden con la longitud real de ediciones, publicaciones, tarjetas y reformas.
+10. Los conteos por fuente coinciden con los elementos de esa fuente.
+11. Las fechas de ediciones, publicaciones y tarjetas estan dentro del rango solicitado.
+12. Toda URL procede de la fuente consultada y no fue reconstruida ni inventada.
+13. Toda reforma con `estado_extraccion: "completa"` contiene ordenamiento, articulo, tipo de cambio y al menos uno de `texto_anterior`, `texto_nuevo` o `texto_transitorio`.
+14. Una reforma incompleta o ambigua usa `estado_extraccion: "incompleta"` o `por_revisar` y explica el motivo.
+15. Cada tarjeta contiene exactamente cinco perfiles en el orden establecido.
+16. Los perfiles no relevantes tienen resumen y accion en `null`.
+17. `topico_principal.clave` corresponde exactamente al nombre del catalogo.
+18. `accion_requerida` y `relevante` son booleanos, no cadenas.
+19. No hay propiedades adicionales.
+20. La salida completa es JSON valido y no contiene texto fuera del objeto.
+
+
+## Prioridad en caso de conflicto
+
+
+1. Fidelidad a la fuente oficial.
+2. Conservacion de publicaciones originales.
+3. Integridad de relaciones y referencias.
+4. Extraccion literal de reformas.
+5. Cobertura completa del rango.
+6. Validacion estructural del JSON.
+7. Clasificacion editorial.
+8. Brevedad del contenido.
