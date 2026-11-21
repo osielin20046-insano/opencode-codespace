@@ -3427,3 +3427,17 @@ reporte_dof_2026-11-21.json
 > build · deepseek-v4.1-flash-free
 [91m[1mError: [0mFree usage limit reached. Connect a provider or subscribe to OpenCode Go to keep going, or switch models.
 == día 22 fin exit=1 01:28:37 UTC ==
+[main 879b018] Reporte DOF 2026-11-22
+ 1 file changed, 75 insertions(+)
+To https://github.com/osielin20046-insano/opencode-codespace
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/osielin20046-insano/opencode-codespace'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+== día 23 inicio 01:28:38 UTC ==
+[0m
+> build · deepseek-v4.1-flash-free
+[91m[1mError: [0mFree usage limit reached. Connect a provider or subscribe to OpenCode Go to keep going, or switch models.
+== día 23 fin exit=1 01:28:41 UTC ==
