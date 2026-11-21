@@ -1,0 +1,2636 @@
+{
+  "version_contrato": "2.0",
+  "reporte": {
+    "nombre": "Clever Ulpiano",
+    "titulo": "Reporte clasificado de publicaciones oficiales",
+    "fecha_inicio": "2026-11-18",
+    "fecha_fin": "2026-11-18",
+    "estado": "completado",
+    "mensajes": [
+      "Se capturaron las ediciones Matutina y Vespertina del DOF del 2026-11-18. El portal oficial no publica la hora de cada nota en el índice, por lo que hora_publicacion queda en null."
+    ],
+    "totales": {
+      "ediciones": 2,
+      "publicaciones": 24,
+      "tarjetas": 24,
+      "reformas": 32
+    }
+  },
+  "fuentes": [
+    {
+      "fuente": "DOF",
+      "estado": "completado",
+      "mensajes": [],
+      "n_ediciones": 2,
+      "n_publicaciones": 24,
+      "n_tarjetas": 24
+    }
+  ],
+  "ediciones": [
+    {
+      "ref_edicion": "E0001",
+      "fuente": "DOF",
+      "jurisdiccion": "federal",
+      "entidad_federativa": null,
+      "tipo": "Matutina",
+      "fecha_publicacion": "2026-11-18",
+      "url_oficial": "https://dof.gob.mx/index.php?year=2026&month=11&day=18&edicion=MAT",
+      "estado_captura": "completa",
+      "mensajes": [],
+      "publicaciones": [
+        {
+          "ref_publicacion": "P000001",
+          "identificador_oficial": "5804097",
+          "titulo": "Decreto por el que se reforman y adicionan diversos artículos del Decreto por el que se crea el organismo descentralizado denominado Financiera para el Bienestar, antes Telégrafos Nacionales.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804097&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804097&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Presidencia de la República",
+          "tipo_publicacion": "decreto",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "reforma_normativa",
+          "reformas": [
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo descentralizado denominado Financiera para el Bienestar, antes Telégrafos Nacionales",
+              "articulo": "1o.",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": "Financiera para el Bienestar es un organismo descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propio, agrupado en el sector coordinado por la Secretaría de Hacienda y Crédito Público, cuyo objeto es la prestación de servicios financieros; el otorgamiento y recuperación de financiamientos para actividades de fomento productivo para el desarrollo e inclusión financiera; el otorgamiento de créditos a personas físicas y morales; la realización de giros y remesas; así como la prestación del servicio público de telégrafos.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo descentralizado denominado Financiera para el Bienestar, antes Telégrafos Nacionales",
+              "articulo": "3o.",
+              "fraccion": "I, II Bis, XIII y XIV",
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": "Financiera para el Bienestar tiene las siguientes atribuciones: I. Proporcionar servicios financieros, financiamiento, giros y remesas, así como el servicio público de telégrafos. II. ... II Bis. En materia de servicios financieros podrá: a) a f) ... g) Promover, en coordinación con las unidades administrativas de la Secretaría de Hacienda y Crédito Público, los proyectos productivos ante instituciones financieras nacionales e internacionales, orientadas a la inversión; h) Prestar servicios de corresponsalía bancaria y celebrar los actos jurídicos necesarios para ello, en términos de la Ley de Instituciones de Crédito y demás disposiciones jurídicas aplicables; i) Realizar las operaciones financieras que no se encuentren reservadas a las instituciones o entidades financieras y que requieran concesión, autorización o registro en términos de la legislación aplicable, y j) Celebrar todos los actos administrativos y jurídicos necesarios para el ejercicio de las atribuciones previstas en la presente fracción. II Ter. En materia de servicios de financiamiento podrá: a) Otorgar préstamos, créditos y financiamientos de manera directa a personas físicas o morales de aquellos sectores de la población y sectores económicos que enfrentan restricciones en el acceso a servicios financieros y financiamiento, de conformidad con su Programa Institucional y con los criterios y lineamientos de elegibilidad y focalización de la población objetivo que apruebe la Junta Directiva; b) Destinar recursos para fondos de garantía, conforme a las reglas de operación o lineamientos que la Junta Directiva apruebe; c) Participar en esquemas de financiamiento a través de mecanismos de garantía parcial, estrictamente vinculados a su objeto, y dirigidos a la población objetivo referida en el inciso a) de esta fracción, en coordinación con instituciones de banca de desarrollo, entidades de fomento o con otras entidades financieras; d) Efectuar descuentos, quitas, reestructuras y cancelaciones sobre los créditos que este organismo descentralizado haya otorgado, de conformidad con los criterios y lineamientos que apruebe la Junta Directiva; e) Operar, modificar y, en su caso, cancelar, por cuenta propia, los títulos de crédito y documentos mercantiles relacionados con el objeto de Financiera para el Bienestar; f) Ejecutar programas de financiamiento previstos en el Presupuesto de Egresos de la Federación, en los que se podrán incluir programas de tasas de interés preferenciales, así como coordinarse con instituciones públicas o privadas, nacionales o internacionales, que aporten capital a tasas preferenciales o capital de riesgo para el apoyo de diversos proyectos vinculados con el objeto de este organismo descentralizado; g) Promover ante instituciones nacionales e internacionales orientadas a la inversión y el financiamiento, proyectos productivos que impulsen el desarrollo económico en las distintas zonas del país y que propicien el desarrollo sustentable de cada región, así como administrarlos y canalizarlos; h) Celebrar convenios con los tres órdenes de gobierno, Federal, Estatal y Municipal, la Ciudad de México y sus demarcaciones territoriales para desarrollar proyectos productivos y de financiamiento orientados a la población objetivo; i) Emitir manuales, reglas de operación, lineamientos, políticas, términos y condiciones, y demás normas jurídicas necesarias para el cumplimiento de sus atribuciones en materia de servicios de financiamiento; j) Aceptar donaciones, aportaciones y líneas de crédito de privados, instituciones de banca de desarrollo, de los fideicomisos públicos de fomento, de los Fideicomisos Instituidos en Relación con la Agricultura y con el sector social económico constituidos en el Banco de México y de los organismos financieros internacionales en términos de las disposiciones jurídicas aplicables, cuyos recursos se destinen al sector de atención de este organismo descentralizado en cumplimiento de su objeto; el importe total de dichas operaciones no podrá exceder del cien por ciento de su patrimonio; k) Celebrar contratos de fideicomiso públicos o privados, relacionados con su objeto mediante esquemas de colaboración financiera, priorizando los de inversión, participación o financiamiento con mecanismos de recuperación y retorno definidos; así como la canalización de financiamientos, y l) Asegurar que las actividades de financiamiento del organismo descentralizado se diseñen y operen bajo criterios de viabilidad y sostenibilidad financiera, procurando la recuperación de los recursos y la preservación de su patrimonio; III. a XII. ... XIII. Desarrollar aplicaciones tecnológicas para la prestación de sus servicios; XIV. Proporcionar los servicios informáticos que sean factibles de aprovechamiento, uso y explotación por terceros, así como celebrar los actos jurídicos necesarios para el desarrollo de sus funciones de acuerdo con las disposiciones jurídicas aplicables; XV. Apoyar a la población objetivo con actividades de capacitación y asesoría financiera, para la mejor utilización de sus recursos crediticios y prevención de fraudes; XVI. Contratar cualquier tipo de servicio necesario para el desempeño del objeto de este organismo descentralizado, de conformidad con la normativa aplicable; XVII. Coordinarse con las dependencias y entidades de la Administración Pública Federal responsables de fomentar el desarrollo tecnológico y económico, para generar acciones orientadas a dar cumplimiento al objeto del organismo; XVIII. Asegurar que en la realización de todas sus operaciones y actividades se observe la protección a los usuarios y beneficiarios de los créditos otorgados, así como la prevención de operaciones con recursos de procedencia ilícita y fraudes, de conformidad con la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y su normatividad secundaria, y XIX. Asegurar que la realización de sus operaciones y actividades que impliquen el uso de recursos, estén sujetas a las disposiciones jurídicas en materia presupuestaria y demás normatividad aplicable.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo descentralizado denominado Financiera para el Bienestar, antes Telégrafos Nacionales",
+              "articulo": "3o. Bis",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "adicion",
+              "texto_anterior": null,
+              "texto_nuevo": "Financiera para el Bienestar contará con las unidades administrativas que sean necesarias para su operación y les sean autorizadas conforme a su estatuto orgánico en términos de las disposiciones jurídicas aplicables.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo descentralizado denominado Financiera para el Bienestar, antes Telégrafos Nacionales",
+              "articulo": "8o.",
+              "fraccion": "XIII Bis y XIII Ter",
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "adicion",
+              "texto_anterior": null,
+              "texto_nuevo": "... I. a XIII. ... XIII Bis. Aprobar los manuales, reglas de operación, criterios, lineamientos, políticas, términos y condiciones, y demás normas jurídicas necesarias para el cumplimiento de las atribuciones del organismo descentralizado en materia de servicios de financiamiento; XIII Ter. Aprobar los criterios y lineamientos en materia de descuentos, quitas, reestructuras y cancelaciones sobre los créditos que la Financiera para el Bienestar otorgue, y XIV. ...",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo descentralizado denominado Financiera para el Bienestar, antes Telégrafos Nacionales",
+              "articulo": "9o.",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": "Segundo párrafo",
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": "... Los acuerdos de la Junta Directiva serán válidos cuando se adopten por mayoría de votos de los integrantes en la sesión, siempre que exista quorum legal y participe la persona que ocupa la Presidencia o que la supla. ...",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo descentralizado denominado Financiera para el Bienestar, antes Telégrafos Nacionales",
+              "articulo": "12",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": "Financiera para el Bienestar contará con un órgano de vigilancia de conformidad con la Ley Orgánica de la Administración Pública Federal y la Ley Federal de las Entidades Paraestatales, que ejercerá las facultades que se establecen en los mismos ordenamientos y demás disposiciones jurídicas aplicables. La persona titular del órgano de vigilancia será designada en los términos de las referidas leyes.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo descentralizado denominado Financiera para el Bienestar, antes Telégrafos Nacionales",
+              "articulo": "13",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": "Financiera para el Bienestar contará con un órgano interno de control de conformidad con la Ley Orgánica de la Administración Pública Federal y la Ley Federal de las Entidades Paraestatales, que ejercerá las facultades que se establecen en los mismos ordenamientos y demás disposiciones jurídicas aplicables. Las personas titulares del órgano interno de control y de las áreas que lo integran serán designadas en los términos de las referidas leyes.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            }
+          ],
+          "id_tarjetas": [
+            "T000001"
+          ]
+        },
+        {
+          "ref_publicacion": "P000002",
+          "identificador_oficial": "5804098",
+          "titulo": "Acuerdo por el que se desagrupa al Instituto Mexicano de la Juventud del sector coordinado por la Secretaría del Trabajo y Previsión Social.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804098&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804098&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Presidencia de la República",
+          "tipo_publicacion": "acuerdo",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000002"
+          ]
+        },
+        {
+          "ref_publicacion": "P000003",
+          "identificador_oficial": "5804100",
+          "titulo": "Convenio de Coordinación que celebran la Secretaría de Gobernación y el Estado de Nuevo León, para promover la adopción, el uso y la certificación de la Clave Única de Registro de Población (CURP), entre los usuarios de la Secretaría de Educación de dicha entidad federativa.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804100&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804100&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Secretaría de Gobernación",
+          "tipo_publicacion": "otro",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000003"
+          ]
+        },
+        {
+          "ref_publicacion": "P000004",
+          "identificador_oficial": "5804102",
+          "titulo": "Aviso por el que se dan a conocer las tarifas autorizadas para el cobro por el uso de infraestructura portuaria, aplicables en el recinto portuario de Dos Bocas, Tab.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804102&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804102&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Secretaría de Marina",
+          "tipo_publicacion": "aviso",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000004"
+          ]
+        },
+        {
+          "ref_publicacion": "P000005",
+          "identificador_oficial": "5804103",
+          "titulo": "Aviso por el que se da a conocer la tarifa autorizada para el cobro del servicio portuario de amarre o desamarre de cabos, aplicable en los recintos portuarios de altura y cabotaje de Isla del Carmen y Seybaplaya, Camp.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804103&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804103&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Secretaría de Marina",
+          "tipo_publicacion": "aviso",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000005"
+          ]
+        },
+        {
+          "ref_publicacion": "P000006",
+          "identificador_oficial": "5804105",
+          "titulo": "Oficio mediante el cual se modifican los términos de la autorización para el establecimiento en territorio nacional de KEB Hana Bank, Oficina de Representación en México.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804105&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804105&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Secretaría de Hacienda y Crédito Público",
+          "tipo_publicacion": "otro",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000006"
+          ]
+        },
+        {
+          "ref_publicacion": "P000007",
+          "identificador_oficial": "5804107",
+          "titulo": "Acuerdo por el que se dan a conocer las medidas de simplificación administrativa aplicadas y se modifica el formato único de los trámites que se indican a cargo de la Secretaría de Medio Ambiente y Recursos Naturales, en materia de zona federal marítimo terrestre.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804107&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804107&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Secretaría de Medio Ambiente y Recursos Naturales",
+          "tipo_publicacion": "acuerdo",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "reforma_normativa",
+          "reformas": [
+            {
+              "ordenamiento": "Acuerdo por el que se da a conocer el formato único de trámites de solicitud para el uso y aprovechamiento de playas, zona federal marítimo terrestre, terrenos ganados al mar o a cualquier otro depósito formado con aguas marítimas, competencia de la Secretaría de Medio Ambiente y Recursos Naturales, publicado el 8 de febrero de 2011",
+              "articulo": "Cuarto",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "modificacion",
+              "texto_anterior": null,
+              "texto_nuevo": null,
+              "texto_transitorio": "PRIMERO. El presente Acuerdo entra en vigor a los quince días hábiles siguientes a su publicación en el Diario Oficial de la Federación, por lo que a partir de esa fecha debe utilizarse el formato señalado en el Anexo 1.",
+              "fecha_entrada_vigor": null,
+              "fundamento_vigencia": "Transitorio PRIMERO (quince días hábiles siguientes a la publicación)",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "por_revisar",
+              "mensaje_revision": "El Acuerdo remite las modificaciones del Formato Único al Anexo 1, que no se reproduce en el texto de la nota; debe consultarse el Anexo para transcribir literalmente el formato."
+            }
+          ],
+          "id_tarjetas": [
+            "T000007"
+          ]
+        },
+        {
+          "ref_publicacion": "P000008",
+          "identificador_oficial": "5804108",
+          "titulo": "Acuerdo de modificación a las disposiciones transitorias de la Norma Oficial Mexicana NOM-174-SEMARNAT-2026, Límites máximos permisibles de emisión de contaminantes provenientes del escape de los motores nuevos incorporados o a ser instalados en maquinaria móvil nueva no de carretera, que usan diésel como combustible.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804108&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804108&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Secretaría de Medio Ambiente y Recursos Naturales",
+          "tipo_publicacion": "nom",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "reforma_normativa",
+          "reformas": [
+            {
+              "ordenamiento": "Norma Oficial Mexicana NOM-174-SEMARNAT-2026, Límites máximos permisibles de emisión de contaminantes provenientes del escape de los motores nuevos incorporados o a ser instalados en maquinaria móvil nueva no de carretera, que usan diésel como combustible",
+              "articulo": "Transitorio adicionado",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "adicion",
+              "texto_anterior": "Sin correlativo.",
+              "texto_nuevo": "Segundo. Con el objeto de evitar afectaciones a las actividades de importación definitiva y primera enajenación, durante los primeros 90 días hábiles contados a partir de la entrada en vigor de la presente Norma Oficial Mexicana, los fabricantes o importadores de motores nuevos incorporados o destinados a ser instalados en maquinaria móvil nueva no de carretera que utilice diésel como combustible podrán realizar la importación definitiva y la primera enajenación de dichos motores y maquinaria sin contar previamente con el Certificado NOM a que se refiere el numeral 5.1 de esta Norma. Los fabricantes o importadores que se acojan a esta disposición deberán presentar la solicitud de certificación correspondiente dentro de los primeros 30 días hábiles contados a partir de la entrada en vigor de la presente Norma Oficial Mexicana y obtener el Certificado NOM dentro de los primeros 90 días hábiles contados a partir de dicha entrada en vigor. En caso de que la solicitud de certificación sea desechada o se niegue la expedición del Certificado NOM, conforme a los numerales 5.3.3 y 5.3.5 de esta Norma, o de que el interesado no presente la solicitud y no obtenga el certificado dentro de los plazos establecidos en este transitorio, la Procuraduría Federal de Protección al Ambiente, en el ámbito de sus atribuciones, podrá imponer las sanciones que resulten procedentes conforme a las disposiciones jurídicas aplicables.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-18",
+              "fundamento_vigencia": "Transitorio Único",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Norma Oficial Mexicana NOM-174-SEMARNAT-2026, Límites máximos permisibles de emisión de contaminantes provenientes del escape de los motores nuevos incorporados o a ser instalados en maquinaria móvil nueva no de carretera, que usan diésel como combustible",
+              "articulo": "Transitorio Segundo (renumerado como Tercero)",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "modificacion",
+              "texto_anterior": "Segundo. Los fabricantes o importadores que previo a la entrada en vigor de dicha NOM, hayan importado o fabricado motores nuevos incorporados o a ser instalados en maquinaria móvil nueva no de carretera podrán concluir su venta sin el certificado NOM.",
+              "texto_nuevo": "Tercero. Los fabricantes o importadores que previo a la entrada en vigor de dicha NOM, hayan importado o fabricado motores nuevos incorporados o a ser instalados en maquinaria móvil nueva no de carretera podrán concluir su venta sin el certificado NOM.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-18",
+              "fundamento_vigencia": "Transitorio Único",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            }
+          ],
+          "id_tarjetas": [
+            "T000008"
+          ]
+        },
+        {
+          "ref_publicacion": "P000009",
+          "identificador_oficial": "5804110",
+          "titulo": "Acuerdo por el que se establece el procedimiento para obtener el Certificado de Buenas Prácticas de Manufactura en el proceso de fabricación de harinas de origen animal y productos químicos, farmacéuticos, biológicos y alimenticios para uso o consumo animal y se dan a conocer los lineamientos técnicos para su obtención, así como la contraseña de calidad zoosanitaria de Establecimiento Confiable en Alimentos de Consumo Animal (ECAL).",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804110&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804110&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Secretaría de Agricultura y Desarrollo Rural",
+          "tipo_publicacion": "acuerdo",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000009"
+          ]
+        },
+        {
+          "ref_publicacion": "P000010",
+          "identificador_oficial": "5804112",
+          "titulo": "Aviso por el que se dan a conocer las ligas electrónicas para consulta de los Lineamientos para el uso seguro de medicamentos e insumos para la salud.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804112&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804112&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Secretaría de Salud",
+          "tipo_publicacion": "aviso",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000010"
+          ]
+        },
+        {
+          "ref_publicacion": "P000011",
+          "identificador_oficial": "5804114",
+          "titulo": "Autorización de constitución como Sociedad de Gestión Colectiva de Interés Público a la Sociedad Mexicana de Fotógrafos Cinematográficos y Obras Audiovisuales.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804114&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804114&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Secretaría de Cultura",
+          "tipo_publicacion": "otro",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000011"
+          ]
+        },
+        {
+          "ref_publicacion": "P000012",
+          "identificador_oficial": "5804116",
+          "titulo": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 119/2026.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804116&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804116&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Suprema Corte de Justicia de la Nación",
+          "tipo_publicacion": "resolucion",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000012"
+          ]
+        },
+        {
+          "ref_publicacion": "P000013",
+          "identificador_oficial": "5804118",
+          "titulo": "Acuerdo por el que se reforman y adicionan diversas disposiciones de los Lineamientos de Supervisión de los especialistas de concursos mercantiles.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804118&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804118&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Órgano de Administración Judicial",
+          "tipo_publicacion": "acuerdo",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "reforma_normativa",
+          "reformas": [
+            {
+              "ordenamiento": "Lineamientos de Supervisión de los especialistas de concursos mercantiles",
+              "articulo": "Único",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": null,
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "por_revisar",
+              "mensaje_revision": "La nota enumera las definiciones, párrafos, incisos y disposiciones transitorias modificados y adicionados, pero el texto nuevo se reproduce en el vínculo PDF indicado en la propia nota."
+            }
+          ],
+          "id_tarjetas": [
+            "T000013"
+          ]
+        },
+        {
+          "ref_publicacion": "P000014",
+          "identificador_oficial": "5804119",
+          "titulo": "Acuerdo por el que se modifican y adicionan diversas disposiciones de las Reglas de Carácter General de la Ley de Concursos Mercantiles.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804119&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804119&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Órgano de Administración Judicial",
+          "tipo_publicacion": "acuerdo",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "reforma_normativa",
+          "reformas": [
+            {
+              "ordenamiento": "Reglas de Carácter General de la Ley de Concursos Mercantiles",
+              "articulo": "Único",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "modificacion",
+              "texto_anterior": null,
+              "texto_nuevo": null,
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "por_revisar",
+              "mensaje_revision": "La nota enumera las reglas, fracciones, incisos y párrafos modificados y adicionados, pero el texto nuevo se reproduce en el vínculo PDF indicado en la propia nota."
+            }
+          ],
+          "id_tarjetas": [
+            "T000014"
+          ]
+        },
+        {
+          "ref_publicacion": "P000015",
+          "identificador_oficial": "5804120",
+          "titulo": "Acuerdo por el que se modifican y adicionan diversas disposiciones de la Metodología para la obtención de información en integración del cuadro diagnóstico de evaluación para la categorización de los especialistas (etapa de quiebra).",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804120&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804120&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Órgano de Administración Judicial",
+          "tipo_publicacion": "acuerdo",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "reforma_normativa",
+          "reformas": [
+            {
+              "ordenamiento": "Metodología para la obtención de información en integración del cuadro diagnóstico de evaluación para la categorización de los especialistas (etapa de quiebra)",
+              "articulo": "Único",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "modificacion",
+              "texto_anterior": null,
+              "texto_nuevo": null,
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "por_revisar",
+              "mensaje_revision": "La nota enuncia las disposiciones modificadas y adicionadas, pero el texto nuevo se reproduce en el vínculo PDF indicado en la propia nota."
+            }
+          ],
+          "id_tarjetas": [
+            "T000015"
+          ]
+        },
+        {
+          "ref_publicacion": "P000016",
+          "identificador_oficial": "5804121",
+          "titulo": "Acuerdo por el que se modifican diversas disposiciones de los Criterios de Selección y Actualización de los Especialistas de Concursos Mercantiles.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804121&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804121&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Órgano de Administración Judicial",
+          "tipo_publicacion": "acuerdo",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "reforma_normativa",
+          "reformas": [
+            {
+              "ordenamiento": "Criterios de Selección y Actualización de los Especialistas de Concursos Mercantiles",
+              "articulo": "Único",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "modificacion",
+              "texto_anterior": null,
+              "texto_nuevo": null,
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "por_revisar",
+              "mensaje_revision": "La nota enuncia las disposiciones modificadas, pero el texto nuevo se reproduce en el vínculo PDF indicado en la propia nota."
+            }
+          ],
+          "id_tarjetas": [
+            "T000016"
+          ]
+        },
+        {
+          "ref_publicacion": "P000017",
+          "identificador_oficial": "5804122",
+          "titulo": "Acuerdo por el que se modifican los Lineamientos para acreditar ante el Instituto Federal de Especialistas de Concursos Mercantiles la actualización de los conocimientos para la renovación del Registro.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804122&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804122&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Órgano de Administración Judicial",
+          "tipo_publicacion": "acuerdo",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "reforma_normativa",
+          "reformas": [
+            {
+              "ordenamiento": "Lineamientos para acreditar ante el Instituto Federal de Especialistas de Concursos Mercantiles la actualización de los conocimientos para la renovación del Registro",
+              "articulo": "Considerando, primer párrafo",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "modificacion",
+              "texto_anterior": null,
+              "texto_nuevo": "Considerando Que el Instituto Federal de Especialistas de Concursos Mercantiles es un órgano auxiliar del Órgano de Administración Judicial con autonomía técnica y operativa. ...",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "incompleta",
+              "mensaje_revision": "La nota reproduce el texto nuevo entre comillas con una elipsis, por lo que no puede transcribirse completo; debe confirmarse la versión íntegra en el vínculo PDF de la nota."
+            }
+          ],
+          "id_tarjetas": [
+            "T000017"
+          ]
+        },
+        {
+          "ref_publicacion": "P000018",
+          "identificador_oficial": "5804123",
+          "titulo": "Acuerdo por el que se abroga el Código de Ética de los Especialistas del Instituto Federal de Especialistas de Concursos Mercantiles publicado el 18 de abril de 2022 y en su lugar se aprueba el Código de Ética y Conducta de las Personas Especialistas de Concursos Mercantiles.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804123&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804123&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Órgano de Administración Judicial",
+          "tipo_publicacion": "acuerdo",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "reforma_normativa",
+          "reformas": [
+            {
+              "ordenamiento": "Código de Ética de los Especialistas del Instituto Federal de Especialistas de Concursos Mercantiles publicado el 18 de abril de 2022",
+              "articulo": "Único",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "abrogacion",
+              "texto_anterior": null,
+              "texto_nuevo": null,
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "por_revisar",
+              "mensaje_revision": "El Acuerdo abroga el Código de Ética de 2022; la nota no reproduce el texto abrogado ni el nuevo, que se encuentra en el vínculo PDF indicado."
+            },
+            {
+              "ordenamiento": "Código de Ética y Conducta de las Personas Especialistas de Concursos Mercantiles",
+              "articulo": "Único",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "expedicion",
+              "texto_anterior": null,
+              "texto_nuevo": null,
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "por_revisar",
+              "mensaje_revision": "El Acuerdo aprueba el nuevo Código de Ética y Conducta; su texto se reproduce en el vínculo PDF indicado en la nota y no en el cuerpo de esta."
+            }
+          ],
+          "id_tarjetas": [
+            "T000018"
+          ]
+        },
+        {
+          "ref_publicacion": "P000019",
+          "identificador_oficial": "5804124",
+          "titulo": "Acuerdo por el que se modifican, adicionan y derogan diversas disposiciones del Reglamento Interior del Instituto Federal de Especialistas de Concursos Mercantiles.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804124&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804124&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Órgano de Administración Judicial",
+          "tipo_publicacion": "acuerdo",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "reforma_normativa",
+          "reformas": [
+            {
+              "ordenamiento": "Reglamento Interior del Instituto Federal de Especialistas de Concursos Mercantiles",
+              "articulo": "Único",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "modificacion",
+              "texto_anterior": null,
+              "texto_nuevo": null,
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Único",
+              "ubicacion_fuente": "Edición Matutina, Única Sección, texto de la nota",
+              "estado_extraccion": "por_revisar",
+              "mensaje_revision": "El Acuerdo modifica, adiciona y deroga disposiciones del Reglamento Interior; el texto nuevo se reproduce en el vínculo PDF indicado en la nota."
+            }
+          ],
+          "id_tarjetas": [
+            "T000019"
+          ]
+        },
+        {
+          "ref_publicacion": "P000020",
+          "identificador_oficial": "5804126",
+          "titulo": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804126&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804126&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Banco de México",
+          "tipo_publicacion": "indicador_diario",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000020"
+          ]
+        },
+        {
+          "ref_publicacion": "P000021",
+          "identificador_oficial": "5804127",
+          "titulo": "Tasas de interés interbancarias de equilibrio.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804127&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804127&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Banco de México",
+          "tipo_publicacion": "indicador_diario",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000021"
+          ]
+        },
+        {
+          "ref_publicacion": "P000022",
+          "identificador_oficial": "5804128",
+          "titulo": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804128&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804128&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Banco de México",
+          "tipo_publicacion": "indicador_diario",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000022"
+          ]
+        },
+        {
+          "ref_publicacion": "P000023",
+          "identificador_oficial": "5804131",
+          "titulo": "Resolución del Consejo General del Instituto Nacional Electoral sobre la procedencia constitucional y legal de las modificaciones a los documentos básicos de la Agrupación Política Nacional denominada Fuerza Migrante, realizadas en el ejercicio de su libertad de autoorganización.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804131&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804131&fecha=18/11/2026&cod_diario=330885",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Instituto Nacional Electoral",
+          "tipo_publicacion": "resolucion",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "no_aplica",
+          "reformas": [],
+          "id_tarjetas": [
+            "T000023"
+          ]
+        }
+      ]
+    },
+    {
+      "ref_edicion": "E0002",
+      "fuente": "DOF",
+      "jurisdiccion": "federal",
+      "entidad_federativa": null,
+      "tipo": "Vespertina",
+      "fecha_publicacion": "2026-11-18",
+      "url_oficial": "https://dof.gob.mx/index.php?year=2026&month=11&day=18&edicion=VES",
+      "estado_captura": "completa",
+      "mensajes": [],
+      "publicaciones": [
+        {
+          "ref_publicacion": "P000024",
+          "identificador_oficial": "5804217",
+          "titulo": "Decreto por el que se reforman y adicionan diversas disposiciones del Decreto por el que se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México, publicado el 08 de enero de 1999.",
+          "subtitulo": null,
+          "resumen_oficial": null,
+          "url_oficial": "https://dof.gob.mx/nota_detalle.php?codigo=5804217&fecha=18/11/2026",
+          "url_documento": "https://dof.gob.mx/nota_to_imagen_fs.php?codnota=5804217&fecha=18/11/2026&cod_diario=330925",
+          "fecha_publicacion": "2026-11-18",
+          "hora_publicacion": null,
+          "dependencia": "Presidencia de la República",
+          "tipo_publicacion": "decreto",
+          "seccion": "Única Sección",
+          "tomo": null,
+          "apartado": null,
+          "alcance": null,
+          "clasificacion_reforma": "reforma_normativa",
+          "reformas": [
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México, publicado el 08 de enero de 1999",
+              "articulo": "1o.",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": "Se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México. El organismo tendrá por objeto ofrecer y prestar servicios editoriales en el campo de las artes gráficas y de la producción de documentos, identificaciones y materiales de seguridad a los sectores público, social y privado, así como producir la documentación y los materiales electorales que le requieran el Instituto Nacional Electoral y los Organismos Públicos Locales Electorales, conforme a las especificaciones técnicas, el diseño y el control de calidad que éstos determinen.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Vespertina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México, publicado el 08 de enero de 1999",
+              "articulo": "2o.",
+              "fraccion": "II, III, IX y X (reforma); XI a XVII (adición)",
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": "... I. ... II. Imprimir, en su caso, el Diario Oficial de la Federación y las gacetas gubernamentales en los términos de la ley de la materia, así como los documentos oficiales, de seguridad, formatos y valores que le encomienden las dependencias y entidades de la Administración Pública Federal; III. Producir, mediante los instrumentos jurídicos que correspondan, la documentación electoral, los materiales electorales y los materiales de capacitación y simulacro que le requieran el Instituto Nacional Electoral y los Organismos Públicos Locales Electorales, con sujeción a las especificaciones técnicas, modelos, diseño, calendario y control de calidad que establezcan dichas autoridades, y las leyes aplicables en la materia, y con los mecanismos de trazabilidad a que se refiere el artículo 13 de este decreto; IV. a VIII. ... IX. Administrar los bienes y recursos humanos, materiales, financieros y de informática con que cuente para el cumplimiento de su objeto, conforme a lo previsto en las disposiciones jurídicas aplicables; X. Elaborar un análisis económico, las tarifas y los precios de referencia de sus productos y servicios, en los términos del artículo 12 de este decreto; XI. Publicar en datos abiertos, en los términos del artículo 13 de este decreto y demás disposiciones jurídicas aplicables, sus órdenes de producción electoral, contratos, subcontratos, insumos, precios y avances; XII. Celebrar los instrumentos jurídicos que sean necesarios con instituciones de educación superior y centros de investigación para el desarrollo, certificación y control de calidad de materiales, insumos y procesos; XIII. Acondicionar, resguardar y reutilizar materiales electorales entre procesos, en coordinación con las autoridades electorales que así lo convengan; XIV. Ejecutar el programa de inversión para la sustitución de maquinaria obsoleta y la ampliación de su capacidad propia de producción; XV. Realizar y promover actividades de investigación, desarrollo tecnológico e innovación en materia de artes gráficas, impresión especializada, impresión de seguridad, documentación y materiales electorales, así como establecer mecanismos de colaboración con instituciones académicas y centros de investigación para el desarrollo, incorporación y transferencia de conocimientos y tecnologías; XVI. Diseñar e implementar programas de capacitación, formación, actualización, profesionalización y certificación del personal del organismo, orientados al fortalecimiento de sus competencias técnicas, y XVII. Realizar las demás actividades inherentes a su naturaleza y conducentes al cumplimiento de sus funciones. ARTÍCULO 3o. a 4o. ...",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Vespertina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México, publicado el 08 de enero de 1999",
+              "articulo": "4o. Bis",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "adicion",
+              "texto_anterior": null,
+              "texto_nuevo": "Son principios rectores de la actuación del organismo y de sus personas servidoras públicas la certeza, la legalidad, la imparcialidad, la máxima publicidad, la objetividad, la eficiencia, la integridad, la transparencia, la rendición de cuentas, la eficacia y la calidad, así como aquellos previstos en las disposiciones jurídicas aplicables. Ninguna persona servidora pública del organismo podrá intervenir en la contratación de insumos, subcontratación de servicios o producción de documentación y materiales electorales cuando tenga o haya tenido, en los cinco años anteriores, relación laboral, comercial, societaria o de representación legal con proveedores o subcontratistas del organismo, o con proveedores de material o documentación electoral del Instituto Nacional Electoral y los Organismos Públicos Locales Electorales, o tenga parentesco por consanguinidad o afinidad hasta el cuarto grado con sus socios, administradores o representantes.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Vespertina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México, publicado el 08 de enero de 1999",
+              "articulo": "5o.",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": "La Junta de Gobierno se integrará por: I. La persona titular de la Secretaría de Gobernación, o la persona servidora pública que ésta designe, quien la presidirá; II. La persona titular de la Consejería Jurídica del Ejecutivo Federal; III. La persona titular de la Secretaría de Hacienda y Crédito Público; IV. La persona titular de la Secretaría Anticorrupción y Buen Gobierno, y V. Tres personas consejeras independientes, de reconocido prestigio y experiencia en artes gráficas, seguridad documental, contrataciones públicas, transparencia o materia electoral, designadas por la persona titular del Ejecutivo Federal a propuesta de la persona titular de la Secretaría de Gobernación, por periodos de cuatro años, renovables por una sola vez, quienes no podrán ser personas servidoras públicas ni tener o haber tenido en los cinco años anteriores relación laboral, comercial, societaria, de representación legal o de parentesco hasta el cuarto grado con proveedores de material o documentación electoral, ni haber sido dirigentes de partido político o candidatas a cargo de elección popular en el mismo periodo, cargos que no recibirán retribución alguna. La Junta de Gobierno nombrará a una persona titular de la secretaría técnica, a propuesta de su Presidencia, en apego a lo previsto en la fracción XII del artículo 58 de la Ley Federal de las Entidades Paraestatales quien asistirá a las sesiones con voz, pero sin voto. La persona que presida la Junta de Gobierno convocará a participar como invitados permanentes, con voz pero sin voto, a la persona titular de la Dirección General del organismo; a la persona titular de la Unidad de Normatividad de Medios de Comunicación de la Secretaría de Gobernación, y a las personas comisarias públicas propietaria y suplente designadas por la Secretaría Anticorrupción y Buen Gobierno. Las personas integrantes de la Junta de Gobierno a que se refieren las fracciones I a IV de este artículo podrán designar a sus respectivas suplentes, quienes deberán contar con el nivel jerárquico mínimo de Dirección General o equivalente. Las personas consejeras independientes ejercerán su encargo de manera personal y no tendrán suplentes. Las personas integrantes de la Junta de Gobierno contarán con derecho a voz y voto, y podrán invitar a las sesiones correspondientes, por conducto de la persona que la presida, cuando la naturaleza de los asuntos lo requiera para el desahogo de temas específicos, a personas servidoras públicas de las dependencias y entidades de la Administración Pública Federal; a personas representantes de órganos constitucionales autónomos federales o locales; representantes de otros organismos públicos y de la Auditoría Superior de la Federación; así como a personas expertas o representantes de instituciones académicas que cuenten con capacidad técnica acreditada en ingeniería de materiales o en artes gráficas. Las personas invitadas participarán con voz, pero sin voto, exclusivamente respecto de los asuntos para los que hayan sido convocadas, y no tendrán el carácter de integrantes ni de invitadas permanentes de la Junta de Gobierno.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Vespertina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México, publicado el 08 de enero de 1999",
+              "articulo": "6o.",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": "La Junta de Gobierno tendrá, además de las atribuciones previstas en el artículo 58 de la Ley Federal de las Entidades Paraestatales, las siguientes: I. Supervisar y analizar la información vinculada con la producción electoral, así como las instalaciones, órdenes de producción, contratos, subcontrataciones, insumos, registros de trazabilidad y estados financieros de dichos procesos; II. Aprobar, en materia de producción de documentos y materiales electorales, las políticas generales, los modelos marco de instrumentos jurídicos con autoridades electorales, los criterios para la integración del padrón de subcontratistas, las metodologías para las investigaciones de mercado de acuerdo con las disposiciones jurídicas aplicables y los precios de referencia aplicables a cada proceso electoral; III. Emitir, en el ámbito de su competencia, acuerdos y recomendaciones en materia de vigilancia, integridad y transparencia de la producción electoral que efectúe el organismo. La persona titular de la Dirección General deberá informar a la Junta de Gobierno, en la siguiente sesión ordinaria, sobre las acciones adoptadas para su atención o las razones justificadas de su no adopción; IV. Aprobar y publicar, al término de cada proceso electoral, el informe consolidado sobre el cumplimiento de calendarios, especificaciones técnicas, precios y reglas de subcontratación, instruyendo su remisión a la Secretaría de Gobernación, a la Auditoría Superior de la Federación y a las autoridades electorales contratantes, y V. Ejercer las demás atribuciones que le confieran las leyes, los reglamentos y otras disposiciones jurídicas aplicables.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Vespertina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México, publicado el 08 de enero de 1999",
+              "articulo": "7o.",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": "La Junta de Gobierno se reunirá con la periodicidad que establezca el Estatuto Orgánico, sin que pueda ser menor de cuatro veces al año. Sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus integrantes, siempre que la mayoría de quienes asistan sean representantes de la Administración Pública Federal. Durante los procesos electorales federales o locales en los que el organismo produzca documentación o materiales electorales, la Junta de Gobierno sesionará por lo menos una vez al mes. Las actas y los acuerdos de las sesiones serán públicos, salvo la información que tenga carácter reservado o confidencial conforme a las disposiciones jurídicas aplicables. Las resoluciones se tomarán por mayoría de votos de las personas integrantes presentes. En caso de empate, la persona titular de la Presidencia tendrá voto de calidad.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Vespertina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México, publicado el 08 de enero de 1999",
+              "articulo": "8o.",
+              "fraccion": "Párrafo primero (reforma); párrafos tercero y cuarto (adición)",
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": "La persona titular de la Dirección General del organismo será designada por la persona titular del Ejecutivo Federal o, a indicación de ésta, a través de la coordinadora de sector, por la Junta de Gobierno, debiendo recaer tal nombramiento en la persona que reúna los requisitos señalados en el artículo 21 de la Ley Federal de las Entidades Paraestatales y, además, no tenga ni haya tenido en los cinco años anteriores relación laboral, comercial, societaria, de representación legal o de parentesco hasta el cuarto grado con proveedores de material o documentación electoral, ni haya sido dirigente de partido político o candidata a cargo de elección popular en el mismo periodo, y tendrá las atribuciones señaladas en el artículo 59 de la Ley Federal de las Entidades Paraestatales y demás disposiciones legales aplicables. ... La persona titular de la Dirección General podrá delegar la suscripción de instrumentos jurídicos con dependencias y entidades de la Administración Pública Federal y demás entes públicos y privados en las personas servidoras públicas del organismo que determine el Estatuto Orgánico, en el ámbito de sus respectivas competencias y conforme a las disposiciones jurídicas aplicables. La persona titular de la Dirección General, las personas titulares de las coordinaciones de producción, comercial y de administración y finanzas, y las personas servidoras públicas que intervengan en los procedimientos de contratación presentarán su declaración de intereses que se publicará en versión pública, en términos de las disposiciones jurídicas aplicables, y se abstendrán de intervenir en cualquier asunto en el que exista conflicto de interés.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Vespertina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México, publicado el 08 de enero de 1999",
+              "articulo": "9o.",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "reforma",
+              "texto_anterior": null,
+              "texto_nuevo": "El organismo contará con los órganos de vigilancia y de control interno de conformidad con la Ley Orgánica de la Administración Pública Federal y la Ley Federal de las Entidades Paraestatales, los que ejercerán las facultades que se establecen en los mismos ordenamientos y demás disposiciones jurídicas aplicables. Las personas titulares de los órganos de vigilancia y de control interno serán designadas en los términos de las referidas leyes.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Vespertina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México, publicado el 08 de enero de 1999",
+              "articulo": "11",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "adicion",
+              "texto_anterior": null,
+              "texto_nuevo": "En los instrumentos jurídicos que el organismo celebre para la producción de documentación y materiales electorales, documentos de seguridad e impresos oficiales, se observará lo siguiente: I. El organismo ejecutará, conforme a sus capacidades, el importe de cada partida conforme a las disposiciones jurídicas aplicables en la materia y la contratación con terceros sólo podrá referirse a insumos, servicios auxiliares o procesos no sustantivos, nunca a la impresión de boletas ni a la producción integral de un material electoral; II. Antes de iniciar la producción de cada proceso electoral, el organismo publicará en la Plataforma Nacional de Transparencia la información relativa a las obligaciones previstas en el artículo 65, fracciones XXVI y XXX de la Ley General de Transparencia y Acceso a la Información Pública, incluyendo el padrón de subcontratistas y proveedores de insumos que intervendrán, con el objeto, monto y procedimiento de cada contrato. Previo a la publicación del padrón antes mencionado, el organismo deberá realizar, por cada uno de los proveedores inscritos, una valoración integral de su capacidad técnica, material, operativa, administrativa y financiera, a efecto de verificar que cuenta con los recursos humanos, materiales, tecnológicos, infraestructura, experiencia y demás condiciones necesarias para suministrar los bienes o prestar los servicios que correspondan; III. El organismo no podrá contratar ni subcontratar con personas físicas o morales que se encuentren inhabilitadas o sancionadas; que tengan pliegos de observaciones o promociones de responsabilidad no solventados de la Auditoría Superior de la Federación o de las entidades de fiscalización locales en materia de contratación de material o documentación electoral; que hayan sido emplazadas o sancionadas por la autoridad de competencia económica por prácticas monopólicas en contrataciones públicas; que se encuentren en la lista de personas bloqueadas de la Unidad de Inteligencia Financiera mientras subsista el bloqueo, ni con sus socios, representantes legales o apoderados, ni con personas morales que compartan con ellas socios, administradores o representantes; IV. Las adquisiciones de insumos y la contratación de servicios se realizarán conforme a las disposiciones jurídicas aplicables, mismas que atendiendo a la normativa aplicable, estarán disponibles para su consulta en la Plataforma Nacional de Transparencia, en cumplimiento al artículo 65, fracción XXVI de la Ley General de Transparencia y Acceso a la Información Pública, y V. El incumplimiento de los límites de subcontratación será causa de responsabilidad administrativa de las personas servidoras públicas que lo autoricen.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Vespertina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México, publicado el 08 de enero de 1999",
+              "articulo": "12",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "adicion",
+              "texto_anterior": null,
+              "texto_nuevo": "La Junta de Gobierno fijará y publicará anualmente las tarifas y los precios de referencia de los productos y servicios del organismo, incluidos, por lo menos, la boleta electoral por millar y por tamaño, el acta y la documentación de casilla, la urna, el cancel electoral portátil, la mampara, la caja paquete electoral, la base porta urna, las marcadoras y marcadores y los materiales de capacitación y simulacro, con base en un análisis económico de los costos de producción del organismo y una utilidad razonable. Los precios de referencia serán la base de los instrumentos jurídicos con las autoridades electorales y se publicarán con su metodología.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Vespertina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México, publicado el 08 de enero de 1999",
+              "articulo": "13",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "adicion",
+              "texto_anterior": null,
+              "texto_nuevo": "El organismo, conforme al principio de transparencia, publicará en formato de datos abiertos, en su portal y en la Plataforma Nacional de Transparencia, y actualizará periódicamente durante los procesos electorales, la información siguiente: instrumentos jurídicos con autoridades electorales; proveedores y procedimientos de subcontratación para la producción de documentos y materiales electorales, así como el proceso de ejecución de los mismos. La documentación y los materiales electorales que produzca contarán con número de serie, folio o marca de seguridad que permita su trazabilidad desde la planta hasta su entrega a la autoridad electoral, conforme a las especificaciones que ésta determine.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Vespertina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México, publicado el 08 de enero de 1999",
+              "articulo": "14",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "adicion",
+              "texto_anterior": null,
+              "texto_nuevo": "El organismo solicitará anualmente a la Auditoría Superior de la Federación la práctica de una auditoría a su gestión, sin perjuicio de las atribuciones que correspondan a dicha Auditoría, al Órgano Interno de Control y a las personas comisarias públicas. Los resultados de las auditorías estarán disponibles para consulta pública en la Plataforma Nacional de Transparencia, en cumplimiento a lo previsto en el artículo 65, fracción XXII, de la Ley General de Transparencia y Acceso a la Información Pública.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Vespertina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México, publicado el 08 de enero de 1999",
+              "articulo": "15",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "adicion",
+              "texto_anterior": null,
+              "texto_nuevo": "La Junta de Gobierno aprobará, a propuesta de la Dirección General, el programa de inversión para la sustitución de maquinaria obsoleta y la ampliación de la capacidad propia de producción de los diversos materiales y documentos, que incluirá la evaluación de la capacidad instalada, las cotizaciones de equipo, la localización de las instalaciones, el calendario, las fuentes de financiamiento y las metas de reducción de la contratación con terceros. El programa y sus avances estarán disponibles para consulta pública en la Plataforma Nacional de Transparencia, de conformid ad con la normativa aplicable.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Vespertina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            },
+            {
+              "ordenamiento": "Decreto por el que se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios Talleres Gráficos de México, con domicilio en la Ciudad de México, publicado el 08 de enero de 1999",
+              "articulo": "16",
+              "fraccion": null,
+              "inciso": null,
+              "apartado": null,
+              "tipo_cambio": "adicion",
+              "texto_anterior": null,
+              "texto_nuevo": "La Secretaría de Gobernación promoverá ante el Instituto Nacional Electoral y los Organismos Públicos Locales Electorales, la celebración de instrumentos jurídicos para la producción de documentación y materiales electorales, que incluirá las reglas de este decreto, los precios de referencia, los mecanismos de supervisión de la autoridad electoral y la reutilización de materiales entre procesos.",
+              "texto_transitorio": null,
+              "fecha_entrada_vigor": "2026-11-19",
+              "fundamento_vigencia": "Transitorio Primero",
+              "ubicacion_fuente": "Edición Vespertina, Única Sección, texto de la nota",
+              "estado_extraccion": "completa",
+              "mensaje_revision": null
+            }
+          ],
+          "id_tarjetas": [
+            "T000024"
+          ]
+        }
+      ]
+    }
+  ],
+  "tarjetas": [
+    {
+      "ref_tarjeta": "T000001",
+      "publicaciones_origen": [
+        "P000001"
+      ],
+      "tipo_publicacion": "decreto",
+      "topico_principal": {
+        "clave": "t-ef",
+        "nombre": "Economía y Finanzas"
+      },
+      "topicos_secundarios": [
+        "Financiera para el Bienestar",
+        "Servicios financieros",
+        "Administración Pública Federal"
+      ],
+      "dependencias_involucradas": [
+        "Presidencia de la República"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Reforma al Decreto de creación de Financiera para el Bienestar",
+      "subtitulo": "Se reforman y adicionan artículos sobre objeto, atribuciones y órganos de gobierno del organismo.",
+      "audiencia_objetivo": "Directivos y personal jurídico de Financiera para el Bienestar, instituciones financieras corresponsales y áreas de cumplimiento del sector financiero",
+      "nivel_impacto": "alto",
+      "puntos_clave": [
+        "Se reforman los artículos 1o., 3o., 9o., 12 y 13 del Decreto de creación de Financiera para el Bienestar, antes Telégrafos Nacionales.",
+        "Se adicionan el artículo 3o. Bis, las fracciones II Ter, XV, XVI, XVII, XVIII y XIX y el inciso j) a la fracción II Bis del artículo 3o., así como las fracciones XIII Bis y XIII Ter al artículo 8o.",
+        "El decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.",
+        "Financiera para el Bienestar deberá realizar las adecuaciones a su Estatuto Orgánico y demás normativa dentro de un plazo de 180 días naturales."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": true,
+          "resumen": "El decreto reforma el marco de creación de Financiera para el Bienestar y precisa su objeto, sus atribuciones y los órganos de gobierno del organismo. Para el perfil de finanzas y crédito, los cambios importan porque la entidad presta servicios financieros, otorga créditos, realiza giros y remesas y participa en el fomento productivo. La reforma también obliga a actualizar el Estatuto Orgánico y la normativa interna en un plazo de 180 días naturales, lo que puede modificar procesos de aprobación, controles y reportes. Conviene revisar el alcance de las nuevas atribuciones, identificar los productos afectados y documentar los ajustes antes de que venza el plazo.",
+          "accion_recomendada": "Revisa las nuevas atribuciones financieras y actualiza productos, controles y reportes antes del plazo de 180 días."
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El decreto modifica el Decreto de creación de Financiera para el Bienestar y añade atribuciones, órganos y reglas de gobierno. Para legal y cumplimiento, el punto central es verificar la nueva distribución de facultades entre la Junta Directiva, la Dirección General y los órganos de vigilancia, así como las obligaciones que se derivan de las fracciones adicionadas al artículo 3o. También debe revisarse la vigencia, el plazo de 180 días para ajustar el Estatuto Orgánico y las implicaciones sobre contratos, poderes y matrices de riesgo. Documenta cada cambio, actualiza la matriz normativa y confirma que las áreas responsables conozcan los nuevos procedimientos.",
+          "accion_recomendada": "Verifica la nueva distribución de facultades y actualiza la matriz normativa y los contratos afectados."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "La reforma actualiza el Decreto que crea Financiera para el Bienestar, organismo descentralizado sectorizado en la Secretaría de Hacienda y Crédito Público. El cambio precisa atribuciones, integración de órganos y reglas de operación, por lo que incide en la organización de la Administración Pública Federal. Para el perfil de gobierno y administración, conviene identificar los actos de coordinación, los nombramientos y los instrumentos internos que deben ajustarse. La entrada en vigor es al día siguiente de la publicación y el Estatuto Orgánico tiene 180 días naturales para adecuarse. Revisa el calendario institucional, asigna responsables y da seguimiento a la publicación de las adecuaciones.",
+          "accion_recomendada": "Coordina la actualización del Estatuto Orgánico y da seguimiento a los nombramientos y actos de coordinación."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000002",
+      "publicaciones_origen": [
+        "P000002"
+      ],
+      "tipo_publicacion": "acuerdo",
+      "topico_principal": {
+        "clave": "t-gap",
+        "nombre": "Gobierno y Administración Pública"
+      },
+      "topicos_secundarios": [
+        "Instituto Mexicano de la Juventud",
+        "Sectorización",
+        "Administración Pública Federal"
+      ],
+      "dependencias_involucradas": [
+        "Presidencia de la República"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "Desagrupación del Instituto Mexicano de la Juventud del sector de la Secretaría del Trabajo",
+      "subtitulo": "El organismo deja de estar agrupado en el sector coordinado por la Secretaría del Trabajo y Previsión Social.",
+      "audiencia_objetivo": "Servidores públicos del Instituto Mexicano de la Juventud y de la Secretaría del Trabajo y Previsión Social",
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "El Acuerdo desagrupa al Instituto Mexicano de la Juventud del sector coordinado por la Secretaría del Trabajo y Previsión Social.",
+        "El Instituto promoverá la coordinación con dependencias y entidades de la Administración Pública Federal en materia de juventudes.",
+        "Se abroga el Acuerdo por el que se agrupó al Instituto a ese sector, publicado el 24 de agosto de 2022.",
+        "El Acuerdo entra en vigor al día siguiente de su publicación."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El Acuerdo desagrupa al Instituto Mexicano de la Juventud del sector coordinado por la Secretaría del Trabajo y Previsión Social y abroga el instrumento de agrupación publicado el 24 de agosto de 2022. Para legal y cumplimiento, debe revisarse la cadena de mando, los actos administrativos que dependían de esa sectorización y las disposiciones internas que citan al sector anterior. También importa el transitorio que pide al Instituto promover la coordinación con dependencias y entidades para las políticas de juventud. Actualiza la matriz normativa, revisa convenios y delegaciones vigentes y documenta la fecha en que surte efectos el cambio.",
+          "accion_recomendada": "Revisa convenios, delegaciones y disposiciones internas que citan al sector anterior y actualízalos."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "El Acuerdo desagrupa al Instituto Mexicano de la Juventud del sector coordinado por la Secretaría del Trabajo y Previsión Social. La medida reorganiza la adscripción sectorial de un organismo público descentralizado y abroga el Acuerdo de agrupación de 2022. Para el perfil de gobierno y administración, el cambio exige revisar la estructura de coordinación, los programas de juventud y los enlaces con dependencias federales. El transitorio segundo encarga al Instituto promover la coordinación interinstitucional conforme al principio de transversalidad. Conviene actualizar manuales, comunicar la nueva adscripción y verificar los efectos sobre presupuesto, metas y convenios vigentes.",
+          "accion_recomendada": "Comunica la nueva adscripción y actualiza manuales, enlaces y compromisos presupuestales del organismo."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000003",
+      "publicaciones_origen": [
+        "P000003"
+      ],
+      "tipo_publicacion": "otro",
+      "topico_principal": {
+        "clave": "t-gap",
+        "nombre": "Gobierno y Administración Pública"
+      },
+      "topicos_secundarios": [
+        "CURP",
+        "Nuevo León",
+        "Registro Nacional de Población"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría de Gobernación"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Convenio para certificar la CURP de usuarios de la Secretaría de Educación de Nuevo León",
+      "subtitulo": "La Secretaría de Gobernación y el Gobierno de Nuevo León coordinan la adopción y certificación de la CURP.",
+      "audiencia_objetivo": "Autoridades educativas de Nuevo León, personal de la Secretaría de Educación estatal y usuarios de los servicios educativos",
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "El convenio lo celebran la Secretaría de Gobernación, por conducto del Registro Nacional de Población, y el Gobierno de Nuevo León, a través de su Secretaría de Educación.",
+        "Su objeto es promover la adopción, el uso y la certificación de la Clave Única de Registro de Población entre los usuarios de la Secretaría de Educación estatal.",
+        "Participan como representantes el Director General del Registro Nacional de Población y el Secretario de Educación de Nuevo León."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El convenio de coordinación entre la Secretaría de Gobernación y el Gobierno de Nuevo León busca adoptar, usar y certificar la CURP entre los usuarios de la Secretaría de Educación estatal. Para legal y cumplimiento, importa delimitar las obligaciones de cada parte, el tratamiento de datos personales y los controles sobre la información registral. El instrumento no es una reforma normativa general, pero crea compromisos operativos que deben constar en la carpeta contractual. Verifica las cláusulas de vigencia, terminación y responsabilidad, confirma las autorizaciones internas y conserva evidencia de las acciones de implementación.",
+          "accion_recomendada": "Verifica cláusulas de vigencia, datos personales y responsabilidades, y conserva la evidencia de su instrumentación."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "La Secretaría de Gobernación, por conducto del Registro Nacional de Población, y el Gobierno de Nuevo León, a través de su Secretaría de Educación, celebran un convenio para promover la adopción, el uso y la certificación de la CURP entre los usuarios del sistema educativo estatal. Para gobierno y administración, el instrumento define una coordinación intergubernamental que requiere seguimiento operativo. Conviene identificar a los responsables de cada parte, los mecanismos de intercambio de información y las obligaciones de reporte. Revisa el texto completo, integra el convenio a la carpeta institucional y verifica la vigencia y los compromisos asumidos antes de instrumentarlo.",
+          "accion_recomendada": "Designa enlaces, integra el convenio a la carpeta institucional y verifica plazos y obligaciones de reporte."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000004",
+      "publicaciones_origen": [
+        "P000004"
+      ],
+      "tipo_publicacion": "aviso",
+      "topico_principal": {
+        "clave": "t-inf",
+        "nombre": "Infraestructura y Transporte"
+      },
+      "topicos_secundarios": [
+        "Puertos",
+        "Dos Bocas",
+        "Tarifas portuarias"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría de Marina"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Tarifas autorizadas de infraestructura portuaria en Dos Bocas, Tabasco",
+      "subtitulo": "Las tarifas entrarán en vigor a los veinte días hábiles siguientes a su publicación.",
+      "audiencia_objetivo": "Usuarios y prestadores de servicios del recinto portuario de Dos Bocas, Tabasco, y operadores logísticos",
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "La Dirección General de Puertos de la Secretaría de Marina autorizó las tarifas para el cobro por el uso de infraestructura portuaria en el recinto portuario de Dos Bocas, Tabasco.",
+        "Las tarifas pueden consultarse en la liga electrónica indicada en el aviso, correspondiente al Puerto Administración del Sistema Portuario Nacional Dos Bocas, S.A. de C.V.",
+        "El aviso entra en vigor el día de su publicación y las tarifas a partir de los veinte días hábiles siguientes a esa fecha."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": true,
+          "resumen": "La Secretaría de Marina da a conocer las tarifas autorizadas para el uso de infraestructura portuaria en el recinto de Dos Bocas, Tabasco. Para comercio exterior, el aviso incide en los costos de las operaciones marítimas y en la planeación logística de importadores y exportadores que utilizan ese puerto. Las tarifas entran en vigor veinte días hábiles después de la publicación, por lo que conviene recalcular fletes y contratos. Revisa la liga oficial del DOF, identifica los servicios que utilizas, ajusta tus estimaciones de costo y traslada el cambio a tus proveedores y clientes.",
+          "accion_recomendada": "Recalcula fletes y contratos con el nuevo tarifario y confirma su aplicación con agentes y proveedores portuarios."
+        },
+        {
+          "perfil": "FC",
+          "relevante": true,
+          "resumen": "El aviso publica las tarifas autorizadas para el cobro por el uso de infraestructura portuaria en Dos Bocas, Tabasco, tras la solicitud del administrador portuario. Para finanzas y crédito, el efecto principal está en los costos operativos y en la facturación de quienes usan el recinto. La entrada en vigor de las tarifas ocurre veinte días hábiles después de la publicación. Conviene revisar la liga de consulta oficial, comparar las tarifas con las vigentes, actualizar presupuestos y contratos y documentar el impacto en márgenes antes de la fecha efectiva.",
+          "accion_recomendada": "Actualiza presupuestos y contratos con el tarifario autorizado y documenta el impacto en costos."
+        },
+        {
+          "perfil": "LC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000005",
+      "publicaciones_origen": [
+        "P000005"
+      ],
+      "tipo_publicacion": "aviso",
+      "topico_principal": {
+        "clave": "t-inf",
+        "nombre": "Infraestructura y Transporte"
+      },
+      "topicos_secundarios": [
+        "Puertos",
+        "Isla del Carmen y Seybaplaya",
+        "Amarre y desamarre"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría de Marina"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "Tarifa autorizada de amarre y desamarre en Isla del Carmen y Seybaplaya",
+      "subtitulo": "Aplica a los recintos portuarios de altura y cabotaje de Campeche.",
+      "audiencia_objetivo": "Prestadores del servicio portuario de amarre o desamarre y usuarios de los recintos de Isla del Carmen y Seybaplaya",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "La Dirección General de Puertos autorizó la tarifa del servicio portuario de amarre o desamarre de cabos para los recintos de altura y cabotaje de Isla del Carmen y Seybaplaya, Campeche.",
+        "La tarifa puede consultarse en la liga electrónica indicada en el aviso, correspondiente a la Administración Portuaria Integral de Campeche, S.A. de C.V.",
+        "El aviso entra en vigor el día de su publicación y la tarifa a partir de los veinte días hábiles siguientes."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": true,
+          "resumen": "La Secretaría de Marina informa la tarifa autorizada por el servicio portuario de amarre o desamarre de cabos en los recintos de Isla del Carmen y Seybaplaya, Campeche. Para comercio exterior, el ajuste afecta el costo de las escalas y la planeación de operaciones marítimas en esos puertos. La tarifa empieza a aplicarse veinte días hábiles después de la publicación. Revisa la liga oficial, confirma si tus operaciones usan esos recintos, incorpora el nuevo costo en tus cotizaciones y avisa a los agentes navieros y proveedores correspondientes.",
+          "accion_recomendada": "Incorpora la nueva tarifa en cotizaciones y confirma con agentes navieros si tus escalas usan esos recintos."
+        },
+        {
+          "perfil": "FC",
+          "relevante": true,
+          "resumen": "El aviso da a conocer la tarifa autorizada para el servicio de amarre o desamarre de cabos en Isla del Carmen y Seybaplaya, Campeche. Para finanzas y crédito, el cambio altera el costo por escala y debe reflejarse en presupuestos y facturación. La tarifa entra en vigor veinte días hábiles después de su publicación. Consulta la liga oficial del DOF, revisa los contratos con prestadores portuarios, actualiza tus proyecciones de costo y conserva evidencia del ajuste para las conciliaciones y auditorías internas.",
+          "accion_recomendada": "Revisa contratos con prestadores portuarios y actualiza las proyecciones de costo por escala."
+        },
+        {
+          "perfil": "LC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000006",
+      "publicaciones_origen": [
+        "P000006"
+      ],
+      "tipo_publicacion": "otro",
+      "topico_principal": {
+        "clave": "t-ef",
+        "nombre": "Economía y Finanzas"
+      },
+      "topicos_secundarios": [
+        "Banca",
+        "Oficinas de representación",
+        "CNBV"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría de Hacienda y Crédito Público"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "Modificación a los términos de la autorización de KEB Hana Bank en México",
+      "subtitulo": "Oficio 312-3/709255/2026 de la Comisión Nacional Bancaria y de Valores.",
+      "audiencia_objetivo": "KEB Hana Bank, Oficina de Representación en México, y áreas de cumplimiento de entidades financieras",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "La Comisión Nacional Bancaria y de Valores modifica los términos de la autorización para el establecimiento en territorio nacional de KEB Hana Bank, Oficina de Representación en México.",
+        "El oficio se identifica con el número 312-3/709255/2026 y el expediente CNBV.3S.1.312 (8147).",
+        "El documento se dirige a la oficina de representación ubicada en Paseo de la Reforma número 180, piso 20, oficina 2003, Ciudad de México."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": true,
+          "resumen": "La Comisión Nacional Bancaria y de Valores modifica los términos de la autorización para el establecimiento en México de KEB Hana Bank, Oficina de Representación. Para finanzas y crédito, el oficio importa como antecedente regulatorio de la presencia del banco extranjero y de sus actividades permitidas. Se trata de un acto particular, no de una reforma general, por lo que el seguimiento debe concentrarse en las condiciones impuestas y en su vigencia. Revisa el oficio completo, verifica las obligaciones de reporte y confirma que las áreas de cumplimiento conozcan los términos actualizados.",
+          "accion_recomendada": "Verifica las condiciones modificadas y confirma que las áreas de cumplimiento conozcan los nuevos términos."
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El oficio de la CNBV modifica los términos de la autorización otorgada a KEB Hana Bank para establecer una oficina de representación en México. Para legal y cumplimiento, el documento precisa condiciones regulatorias aplicables a una entidad financiera extranjera y debe incorporarse al expediente societario. Aunque no reforma una norma general, puede afectar obligaciones de información y controles internos. Revisa el oficio 312-3/709255/2026, identifica las condiciones modificadas, actualiza la matriz de obligaciones y conserva la evidencia de su comunicación a las áreas responsables.",
+          "accion_recomendada": "Incorpora el oficio al expediente, actualiza la matriz de obligaciones y comunica las condiciones vigentes."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000007",
+      "publicaciones_origen": [
+        "P000007"
+      ],
+      "tipo_publicacion": "acuerdo",
+      "topico_principal": {
+        "clave": "t-marn",
+        "nombre": "Medio Ambiente y Recursos Naturales"
+      },
+      "topicos_secundarios": [
+        "Zona federal marítimo terrestre",
+        "Simplificación administrativa",
+        "Trámites SEMARNAT"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría de Medio Ambiente y Recursos Naturales"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Simplificación administrativa y nuevo formato de trámites de zona federal marítimo terrestre",
+      "subtitulo": "Se reducen plazos y requisitos de diversos trámites a cargo de la SEMARNAT.",
+      "audiencia_objetivo": "Personas físicas y morales concesionarias o solicitantes de trámites de zona federal marítimo terrestre y unidades administrativas de la SEMARNAT",
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "Se aplican medidas de simplificación administrativa a los trámites de concesión, prórroga y modificación de zona federal marítimo terrestre, así como a permisos de uso transitorio y comercio ambulante.",
+        "Se reduce el plazo máximo de atención de 200 a 180 días naturales en los trámites señalados y se disminuyen requisitos, por ejemplo de 10 a 7 y de 12 a 8.",
+        "Se modifica el Formato Único de Trámites de Zona Federal Marítimo Terrestre y Ambientes Costeros, contenido en el Anexo 1 del Acuerdo.",
+        "El Acuerdo entra en vigor a los quince días hábiles siguientes a su publicación."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El Acuerdo de la SEMARNAT aplica medidas de simplificación administrativa a trámites de zona federal marítimo terrestre, reduce plazos y requisitos y modifica el Formato Único contenido en el Anexo 1. Para legal y cumplimiento, el cambio exige revisar los expedientes en curso y distinguir los trámites iniciados antes y después de la entrada en vigor. El Acuerdo entra en vigor quince días hábiles después de su publicación. Actualiza las listas de requisitos, ajusta los formatos de solicitud, capacita al personal y documenta la versión del Anexo 1 que utilices.",
+          "accion_recomendada": "Ajusta los expedientes en curso y usa únicamente la versión del Anexo 1 vigente a partir de la fecha efectiva."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "La SEMARNAT publica medidas de simplificación administrativa para trámites de zona federal marítimo terrestre y modifica el Formato Único aplicable. La medida reduce plazos de atención y requisitos documentales en los procedimientos señalados. Para gobierno y administración, conviene coordinar la actualización de ventanillas, sistemas y manuales internos. El Acuerdo entra en vigor quince días hábiles después de la publicación. Revisa los procedimientos afectados, comunica los nuevos requisitos a los usuarios, ajusta los sistemas de recepción y da seguimiento a la publicación del Anexo 1.",
+          "accion_recomendada": "Coordina la actualización de ventanillas y sistemas y comunica los nuevos requisitos a los usuarios."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000008",
+      "publicaciones_origen": [
+        "P000008"
+      ],
+      "tipo_publicacion": "nom",
+      "topico_principal": {
+        "clave": "t-nom",
+        "nombre": "Normas Oficiales Mexicanas"
+      },
+      "topicos_secundarios": [
+        "NOM-174-SEMARNAT-2026",
+        "Emisiones",
+        "Maquinaria móvil"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría de Medio Ambiente y Recursos Naturales"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Modificación a transitorios de la NOM-174-SEMARNAT-2026 sobre emisiones de maquinaria móvil",
+      "subtitulo": "Se ajusta el plazo para importar y enajenar motores sin Certificado NOM.",
+      "audiencia_objetivo": "Fabricantes e importadores de motores y maquinaria móvil nueva no de carretera que usan diésel como combustible",
+      "nivel_impacto": "alto",
+      "puntos_clave": [
+        "Se adiciona un artículo transitorio y se modifica el artículo Transitorio Segundo de la NOM-174-SEMARNAT-2026.",
+        "Durante los primeros 90 días hábiles desde la entrada en vigor se podrá realizar la importación definitiva y la primera enajenación de motores y maquinaria sin Certificado NOM.",
+        "Los fabricantes o importadores deberán presentar la solicitud de certificación dentro de los primeros 30 días hábiles y obtener el Certificado NOM en los primeros 90 días hábiles.",
+        "La Procuraduría Federal de Protección al Ambiente podrá imponer sanciones si no se presenta la solicitud o no se obtiene el certificado en los plazos.",
+        "El Acuerdo entra en vigor el día de su publicación."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": true,
+          "resumen": "La SEMARNAT modifica los transitorios de la NOM-174-SEMARNAT-2026 sobre emisiones de motores nuevos incorporados o instalados en maquinaria móvil no de carretera que usa diésel. El ajuste abre una ventana de 90 días hábiles para la importación definitiva y primera enajenación sin Certificado NOM, con solicitud de certificación en 30 días hábiles y obtención en 90. Para comercio exterior, es clave verificar el estatus de cada embarque y la documentación de origen. Revisa la NOM y su transitorio, coordina con tu agente aduanal y conserva evidencia de las solicitudes presentadas.",
+          "accion_recomendada": "Verifica el estatus de cada embarque y coordina con tu agente aduanal las solicitudes de certificación."
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El Acuerdo modifica las disposiciones transitorias de la NOM-174-SEMARNAT-2026, que regula las emisiones de motores nuevos de maquinaria móvil no de carretera que usan diésel. La modificación permite, durante los primeros 90 días hábiles, importar y enajenar motores sin Certificado NOM, con la obligación de solicitar la certificación en 30 días hábiles y obtenerla en 90. Para legal y cumplimiento, debe revisarse el texto transitorio, los plazos y las sanciones aplicables. Actualiza tu expediente de cumplimiento, confirma con tus proveedores el estatus de certificación y documenta las fechas de cada actuación.",
+          "accion_recomendada": "Documenta los plazos de solicitud y certificación y verifica con proveedores el estatus de cada motor."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000009",
+      "publicaciones_origen": [
+        "P000009"
+      ],
+      "tipo_publicacion": "acuerdo",
+      "topico_principal": {
+        "clave": "t-agr",
+        "nombre": "Agricultura y Desarrollo Rural"
+      },
+      "topicos_secundarios": [
+        "Buenas prácticas de manufactura",
+        "Alimentos para consumo animal",
+        "ECAL"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría de Agricultura y Desarrollo Rural"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Procedimiento para el Certificado de Buenas Prácticas de Manufactura de alimentos para consumo animal",
+      "subtitulo": "Incluye los lineamientos técnicos y la contraseña de calidad zoosanitaria ECAL.",
+      "audiencia_objetivo": "Establecimientos que fabrican harinas de origen animal y productos químicos, farmacéuticos, biológicos y alimenticios para uso o consumo animal",
+      "nivel_impacto": "alto",
+      "puntos_clave": [
+        "Se establece el procedimiento para obtener el Certificado de Buenas Prácticas de Manufactura en el proceso de fabricación de harinas de origen animal y productos para uso o consumo animal.",
+        "Se dan a conocer los lineamientos técnicos para obtener el certificado y la contraseña de calidad zoosanitaria de Establecimiento Confiable en Alimentos de Consumo Animal (ECAL).",
+        "El Acuerdo entra en vigor a los 90 días hábiles posteriores a su publicación.",
+        "Los propietarios o representantes de los establecimientos tendrán un plazo máximo de 18 meses para obtener el certificado."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "La Secretaría de Agricultura y Desarrollo Rural establece el procedimiento para obtener el Certificado de Buenas Prácticas de Manufactura en la fabricación de harinas de origen animal y productos para uso o consumo animal, y da a conocer los lineamientos técnicos y la contraseña ECAL. Para legal y cumplimiento, el Acuerdo crea una ruta de certificación con plazos y requisitos que deben verificarse. Entra en vigor a los 90 días hábiles y otorga 18 meses para obtener el certificado. Revisa el procedimiento, integra el expediente, programa la auditoría y documenta el cumplimiento.",
+          "accion_recomendada": "Integra el expediente de certificación y programa la auditoría dentro del plazo de 18 meses."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "La SADER publica el procedimiento para obtener el Certificado de Buenas Prácticas de Manufactura en establecimientos que fabrican harinas de origen animal y productos químicos, farmacéuticos, biológicos y alimenticios para consumo animal. El Acuerdo también difunde los lineamientos técnicos y la contraseña ECAL. Para gobierno y administración, implica coordinar la operación de la ventanilla, la evaluación y el registro de establecimientos confiables. Entra en vigor a los 90 días hábiles y fija 18 meses para certificarse. Revisa las cargas de trabajo, los formatos y los mecanismos de seguimiento con el sector regulado.",
+          "accion_recomendada": "Ajusta la operación de la ventanilla y los mecanismos de evaluación y seguimiento de establecimientos."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000010",
+      "publicaciones_origen": [
+        "P000010"
+      ],
+      "tipo_publicacion": "aviso",
+      "topico_principal": {
+        "clave": "t-sal",
+        "nombre": "Salud"
+      },
+      "topicos_secundarios": [
+        "Medicamentos",
+        "Insumos para la salud",
+        "Lineamientos"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría de Salud"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "Ligas electrónicas de los Lineamientos para el uso seguro de medicamentos e insumos",
+      "subtitulo": "Publicadas por la Secretaría de Salud.",
+      "audiencia_objetivo": "Personal de salud, farmacias, instituciones del sector salud y responsables de farmacovigilancia",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "La Secretaría de Salud da a conocer las ligas electrónicas para consultar los Lineamientos para el uso seguro de medicamentos e insumos para la salud.",
+        "El aviso se emite con fundamento en los artículos 4o. de la Constitución, 39 de la Ley Orgánica de la Administración Pública Federal y 4o., 5o., 6o. y 7o. de la Ley General de Salud.",
+        "El aviso no reforma los lineamientos; únicamente difunde los vínculos de consulta."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "La Secretaría de Salud da a conocer las ligas electrónicas para consultar los Lineamientos para el uso seguro de medicamentos e insumos para la salud. Para legal y cumplimiento, el aviso facilita localizar el instrumento aplicable, pero no reforma sus disposiciones. Conviene verificar que las áreas de farmacia, farmacovigilancia y calidad consulten la versión vigente y que los procesos internos citen la fuente correcta. Revisa los vínculos, descarga y resguarda el documento, compara su contenido con tus procedimientos y actualiza la matriz normativa cuando corresponda.",
+          "accion_recomendada": "Descarga y resguarda los lineamientos y confirma que las áreas de farmacia usen la versión vigente."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000011",
+      "publicaciones_origen": [
+        "P000011"
+      ],
+      "tipo_publicacion": "otro",
+      "topico_principal": {
+        "clave": "t-leg",
+        "nombre": "Legislación y Justicia"
+      },
+      "topicos_secundarios": [
+        "Derechos de autor",
+        "Sociedades de gestión colectiva",
+        "Fotografía"
+      ],
+      "dependencias_involucradas": [
+        "Secretaría de Cultura"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "Autorización para constituir la Sociedad Mexicana de Fotógrafos Cinematográficos y Obras Audiovisuales",
+      "subtitulo": "Expediente DPVDA/SGC/AO/02/2026 del Instituto Nacional del Derecho de Autor.",
+      "audiencia_objetivo": "Fotógrafos, creadores audiovisuales, sociedades de gestión colectiva y usuarios de obras protegidas",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "El Instituto Nacional del Derecho de Autor autoriza la constitución de la Sociedad Mexicana de Fotógrafos Cinematográficos y Obras Audiovisuales como sociedad de gestión colectiva de interés público.",
+        "La solicitud se tramitó en el expediente DPVDA/SGC/AO/02/2026.",
+        "La autorización se otorga a la entidad promovida por sus socios iniciales para constituirse y operar como sociedad de gestión colectiva."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El Instituto Nacional del Derecho de Autor autoriza la constitución de la Sociedad Mexicana de Fotógrafos Cinematográficos y Obras Audiovisuales como sociedad de gestión colectiva de interés público. Para legal y cumplimiento, la autorización define un nuevo sujeto que podrá gestionar derechos de autores de obras fotográficas y audiovisuales. Conviene revisar el alcance de la autorización, las obligaciones de la sociedad y los efectos sobre licencias y contratos vigentes. Consulta el expediente DPVDA/SGC/AO/02/2026, revisa tus contratos de cesión de derechos y verifica si tus obras quedan comprendidas.",
+          "accion_recomendada": "Revisa tus contratos de cesión de derechos y verifica el alcance de la nueva sociedad de gestión."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000012",
+      "publicaciones_origen": [
+        "P000012"
+      ],
+      "tipo_publicacion": "resolucion",
+      "topico_principal": {
+        "clave": "t-leg",
+        "nombre": "Legislación y Justicia"
+      },
+      "topicos_secundarios": [
+        "Controversia constitucional",
+        "Coahuila",
+        "Ley de Ingresos"
+      ],
+      "dependencias_involucradas": [
+        "Suprema Corte de Justicia de la Nación"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "La SCJN invalida numerales de la Ley de Ingresos del Municipio de Hidalgo, Coahuila",
+      "subtitulo": "Controversia Constitucional 119/2026, ponencia de la Ministra Yasmín Esquivel Mossa.",
+      "audiencia_objetivo": "Congreso y autoridades hacendarias de Coahuila, el Ayuntamiento de Hidalgo y contribuyentes del municipio",
+      "nivel_impacto": "alto",
+      "puntos_clave": [
+        "El Tribunal Pleno declaró procedente y fundada la Controversia Constitucional 119/2026 promovida por el Poder Ejecutivo Federal.",
+        "Se declara la invalidez del artículo 19, fracción I, numerales 1, 2 y 3, de la Ley de Ingresos del Municipio de Hidalgo, Coahuila de Zaragoza, para el Ejercicio Fiscal 2026.",
+        "Los efectos surten a partir de la notificación de los puntos resolutivos al Congreso del Estado de Coahuila de Zaragoza.",
+        "La resolución se publica en el Diario Oficial de la Federación, en el Periódico Oficial del Gobierno del Estado y en el Semanario Judicial de la Federación."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El Tribunal Pleno de la Suprema Corte resolvió la Controversia Constitucional 119/2026 y declaró la invalidez del artículo 19, fracción I, numerales 1, 2 y 3, de la Ley de Ingresos del Municipio de Hidalgo, Coahuila, para el ejercicio fiscal 2026. Para legal y cumplimiento, la sentencia precisa que los efectos surten a partir de la notificación al Congreso local. Revisa el texto completo, identifica los cobros o actos fundados en los numerales invalidados, ajusta tus obligaciones fiscales municipales y documenta las medidas adoptadas con las autoridades hacendarias.",
+          "accion_recomendada": "Identifica actos de cobro fundados en los numerales invalidados y coordina su ajuste con la autoridad municipal."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "La Suprema Corte declaró la invalidez de los numerales 1, 2 y 3 de la fracción I del artículo 19 de la Ley de Ingresos del Municipio de Hidalgo, Coahuila, para el ejercicio fiscal 2026, al resolver la Controversia Constitucional 119/2026. Para gobierno y administración, la decisión obliga a revisar los actos de recaudación y las disposiciones municipales relacionadas con energía eléctrica. Los efectos corren desde la notificación al Congreso de Coahuila. Coordina con el área jurídica y hacendaria, suspende los actos de aplicación invalidados y documenta las adecuaciones presupuestales que correspondan.",
+          "accion_recomendada": "Suspende los actos de aplicación invalidados y documenta las adecuaciones hacendarias y presupuestales."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000013",
+      "publicaciones_origen": [
+        "P000013"
+      ],
+      "tipo_publicacion": "acuerdo",
+      "topico_principal": {
+        "clave": "t-leg",
+        "nombre": "Legislación y Justicia"
+      },
+      "topicos_secundarios": [
+        "Concursos mercantiles",
+        "IFECOM",
+        "Lineamientos de supervisión"
+      ],
+      "dependencias_involucradas": [
+        "Órgano de Administración Judicial"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Reformas a los Lineamientos de Supervisión de especialistas de concursos mercantiles",
+      "subtitulo": "Acuerdo del IFECOM aprobado el 27 de agosto de 2026.",
+      "audiencia_objetivo": "Visitadores, conciliadores y síndicos del Registro de especialistas de concursos mercantiles y áreas de supervisión del IFECOM",
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "Se modifican definiciones y párrafos de los Lineamientos Primero, Cuarto, Quinto, Sexto, Octavo, Noveno, Décimo Primero, Décimo Cuarto y Décimo Séptimo.",
+        "Se adiciona la definición de OAJ en el Lineamiento Primero y diversos párrafos en los Lineamientos Cuarto, Sexto, Octavo y Noveno.",
+        "La actualización incorpora referencias al Órgano de Administración Judicial en la normativa del IFECOM.",
+        "El texto completo de las disposiciones se reproduce en el vínculo PDF indicado en la nota.",
+        "El Acuerdo entra en vigor al día siguiente de su publicación."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El Acuerdo del IFECOM reforma y adiciona los Lineamientos de Supervisión de los especialistas de concursos mercantiles para actualizar referencias al Órgano de Administración Judicial. Para legal y cumplimiento, los cambios alcanzan definiciones y párrafos de los Lineamientos Primero, Cuarto, Quinto, Sexto, Octavo, Noveno, Décimo Primero, Décimo Cuarto y Décimo Séptimo, además de disposiciones transitorias. El texto completo está en el PDF oficial señalado en la nota. Revisa la versión publicada, actualiza tus manuales de supervisión, verifica los plazos y documenta la entrada en vigor.",
+          "accion_recomendada": "Actualiza los manuales de supervisión con el texto publicado y verifica las nuevas referencias al OAJ."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000014",
+      "publicaciones_origen": [
+        "P000014"
+      ],
+      "tipo_publicacion": "acuerdo",
+      "topico_principal": {
+        "clave": "t-leg",
+        "nombre": "Legislación y Justicia"
+      },
+      "topicos_secundarios": [
+        "Concursos mercantiles",
+        "Reglas de carácter general",
+        "IFECOM"
+      ],
+      "dependencias_involucradas": [
+        "Órgano de Administración Judicial"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Modificaciones a las Reglas de Carácter General de la Ley de Concursos Mercantiles",
+      "subtitulo": "Ajustes a reglas 1, 2, 11, 12, 14, 16, 19, 20, 24, 25, 28, 40, 43, 49 y otras.",
+      "audiencia_objetivo": "Especialistas en concursos mercantiles, deudores, acreedores y juzgados en materia de concurso mercantil",
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "Se modifican y adicionan diversas disposiciones de las Reglas de Carácter General de la Ley de Concursos Mercantiles.",
+        "Los cambios alcanzan reglas sobre registro, categorización, actuación y supervisión de los especialistas de concursos mercantiles.",
+        "El texto completo se reproduce en el vínculo PDF indicado en la nota.",
+        "El Acuerdo entra en vigor al día siguiente de su publicación."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El Acuerdo del IFECOM modifica y adiciona las Reglas de Carácter General de la Ley de Concursos Mercantiles en múltiples reglas, incluidas las relativas a registro, categorización y actuación de especialistas. Para legal y cumplimiento, el cambio exige contrastar la versión vigente con el texto publicado y revisar las obligaciones aplicables a visitadores, conciliadores y síndicos. El texto íntegro se encuentra en el PDF oficial citado en la nota. Actualiza tu matriz normativa, revisa los procedimientos internos y confirma con el Instituto las dudas sobre disposiciones específicas.",
+          "accion_recomendada": "Contrasta las reglas publicadas con tu versión vigente y actualiza los procedimientos de actuación."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000015",
+      "publicaciones_origen": [
+        "P000015"
+      ],
+      "tipo_publicacion": "acuerdo",
+      "topico_principal": {
+        "clave": "t-leg",
+        "nombre": "Legislación y Justicia"
+      },
+      "topicos_secundarios": [
+        "Concursos mercantiles",
+        "Metodología",
+        "IFECOM"
+      ],
+      "dependencias_involucradas": [
+        "Órgano de Administración Judicial"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Modificaciones a la Metodología para el cuadro diagnóstico de especialistas (etapa de quiebra)",
+      "subtitulo": "Acuerdo del IFECOM aprobado el 27 de agosto de 2026.",
+      "audiencia_objetivo": "Especialistas en concursos mercantiles y áreas de evaluación del IFECOM",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "Se modifican y adicionan diversas disposiciones de la Metodología para la obtención de información en integración del cuadro diagnóstico de evaluación para la categorización de los especialistas en etapa de quiebra.",
+        "El texto completo se reproduce en el vínculo PDF indicado en la nota.",
+        "El Acuerdo entra en vigor al día siguiente de su publicación."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El Acuerdo del IFECOM modifica y adiciona la Metodología para la obtención de información en la integración del cuadro diagnóstico de evaluación para la categorización de los especialistas en etapa de quiebra. Para legal y cumplimiento, el ajuste incide en la forma en que se recaba y valora la información de los especialistas y puede afectar su categoría. El texto completo está en el PDF citado en la nota y la vigencia es al día siguiente de la publicación. Revisa la metodología aplicable, actualiza los formatos de captura y documenta los criterios utilizados.",
+          "accion_recomendada": "Actualiza los formatos de captura y documenta los criterios de evaluación aplicables a tu categoría."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000016",
+      "publicaciones_origen": [
+        "P000016"
+      ],
+      "tipo_publicacion": "acuerdo",
+      "topico_principal": {
+        "clave": "t-leg",
+        "nombre": "Legislación y Justicia"
+      },
+      "topicos_secundarios": [
+        "Concursos mercantiles",
+        "Selección de especialistas",
+        "IFECOM"
+      ],
+      "dependencias_involucradas": [
+        "Órgano de Administración Judicial"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Modificaciones a los Criterios de Selección y Actualización de Especialistas de Concursos Mercantiles",
+      "subtitulo": "Acuerdo del IFECOM aprobado el 27 de agosto de 2026.",
+      "audiencia_objetivo": "Aspirantes y especialistas registrados en concursos mercantiles y áreas de selección del IFECOM",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "Se modifican diversas disposiciones de los Criterios de Selección y Actualización de los Especialistas de Concursos Mercantiles.",
+        "El texto completo se reproduce en el vínculo PDF indicado en la nota.",
+        "El Acuerdo entra en vigor al día siguiente de su publicación."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El Acuerdo del IFECOM modifica los Criterios de Selección y Actualización de los Especialistas de Concursos Mercantiles. Para legal y cumplimiento, el cambio afecta los requisitos y el proceso de selección, actualización y permanencia de visitadores, conciliadores y síndicos. La publicación remite al PDF oficial para el texto completo, por lo que debe consultarse la versión íntegra antes de aplicar los criterios. Revisa el documento, compara los requisitos con tus expedientes, actualiza tus controles internos y conserva la evidencia de las actualizaciones realizadas.",
+          "accion_recomendada": "Compara los nuevos criterios con tus expedientes y actualiza los controles de selección y permanencia."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000017",
+      "publicaciones_origen": [
+        "P000017"
+      ],
+      "tipo_publicacion": "acuerdo",
+      "topico_principal": {
+        "clave": "t-leg",
+        "nombre": "Legislación y Justicia"
+      },
+      "topicos_secundarios": [
+        "Concursos mercantiles",
+        "Acreditación",
+        "IFECOM"
+      ],
+      "dependencias_involucradas": [
+        "Órgano de Administración Judicial"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Modificación a los Lineamientos para acreditar la actualización de conocimientos del Registro de Especialistas",
+      "subtitulo": "Se ajusta el primer párrafo del Considerando.",
+      "audiencia_objetivo": "Especialistas registrados que renuevan su registro ante el IFECOM",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "Se modifica el primer párrafo del Considerando de los Lineamientos para acreditar ante el IFECOM la actualización de conocimientos para la renovación del Registro.",
+        "La nueva redacción se refiere al Órgano de Administración Judicial con autonomía técnica y operativa.",
+        "El Acuerdo entra en vigor al día siguiente de su publicación."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El Acuerdo del IFECOM modifica el primer párrafo del Considerando de los Lineamientos para acreditar ante el Instituto la actualización de conocimientos para la renovación del Registro. La nueva redacción actualiza la referencia al Órgano de Administración Judicial. La nota reproduce el texto entre comillas con una elipsis, por lo que debe confirmarse la versión íntegra en el PDF oficial. Para legal y cumplimiento, revisa el lineamiento completo, verifica los requisitos de acreditación y documenta la entrada en vigor antes de renovar registros.",
+          "accion_recomendada": "Confirma la versión íntegra del lineamiento y verifica los requisitos antes de renovar tu registro."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000018",
+      "publicaciones_origen": [
+        "P000018"
+      ],
+      "tipo_publicacion": "acuerdo",
+      "topico_principal": {
+        "clave": "t-leg",
+        "nombre": "Legislación y Justicia"
+      },
+      "topicos_secundarios": [
+        "Concursos mercantiles",
+        "Código de Ética",
+        "IFECOM"
+      ],
+      "dependencias_involucradas": [
+        "Órgano de Administración Judicial"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Abrogación del Código de Ética del IFECOM y nuevo Código de Ética y Conducta",
+      "subtitulo": "Se sustituye el código publicado el 18 de abril de 2022.",
+      "audiencia_objetivo": "Personas especialistas de concursos mercantiles y áreas de integridad del IFECOM",
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "Se abroga el Código de Ética de los Especialistas del IFECOM publicado el 18 de abril de 2022.",
+        "En su lugar se aprueba el Código de Ética y Conducta de las Personas Especialistas de Concursos Mercantiles.",
+        "El texto del nuevo Código se reproduce en el vínculo PDF indicado en la nota.",
+        "El Acuerdo entra en vigor al día siguiente de su publicación."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El Acuerdo del IFECOM abroga el Código de Ética de los Especialistas publicado el 18 de abril de 2022 y aprueba el Código de Ética y Conducta de las Personas Especialistas de Concursos Mercantiles. Para legal y cumplimiento, el cambio sustituye el marco de conducta aplicable a visitadores, conciliadores y síndicos y puede incidir en procedimientos disciplinarios. El texto íntegro se encuentra en el PDF oficial citado en la nota. Revisa el nuevo Código, actualiza tus políticas de integridad, capacita al personal y documenta la entrada en vigor.",
+          "accion_recomendada": "Sustituye el código anterior, capacita al personal y actualiza las políticas de integridad."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000019",
+      "publicaciones_origen": [
+        "P000019"
+      ],
+      "tipo_publicacion": "acuerdo",
+      "topico_principal": {
+        "clave": "t-leg",
+        "nombre": "Legislación y Justicia"
+      },
+      "topicos_secundarios": [
+        "Concursos mercantiles",
+        "Reglamento Interior",
+        "IFECOM"
+      ],
+      "dependencias_involucradas": [
+        "Órgano de Administración Judicial"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Reformas al Reglamento Interior del IFECOM",
+      "subtitulo": "Se modifican, adicionan y derogan diversas disposiciones.",
+      "audiencia_objetivo": "Servidores públicos del IFECOM y especialistas en concursos mercantiles",
+      "nivel_impacto": "medio",
+      "puntos_clave": [
+        "Se modifican, adicionan y derogan diversas disposiciones del Reglamento Interior del Instituto Federal de Especialistas de Concursos Mercantiles.",
+        "El texto completo se reproduce en el vínculo PDF indicado en la nota.",
+        "El Acuerdo entra en vigor al día siguiente de su publicación."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El Acuerdo del IFECOM modifica, adiciona y deroga diversas disposiciones del Reglamento Interior del Instituto. Para legal y cumplimiento, el cambio puede alterar la distribución de facultades, las unidades administrativas y los procedimientos internos del IFECOM. El texto completo se encuentra en el PDF oficial señalado en la nota y la vigencia es al día siguiente de la publicación. Revisa el reglamento publicado, identifica las áreas afectadas, actualiza los manuales y verifica que las delegaciones y firmas correspondan a las nuevas disposiciones.",
+          "accion_recomendada": "Identifica las facultades modificadas y actualiza manuales, delegaciones y firmas del Instituto."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "El Acuerdo del IFECOM reforma el Reglamento Interior del Instituto Federal de Especialistas de Concursos Mercantiles. Para gobierno y administración, la modificación incide en la estructura interna, las facultades de las unidades administrativas y los procesos de decisión del organismo. El texto íntegro está en el PDF oficial citado en la nota y entra en vigor al día siguiente de su publicación. Revisa la organización vigente, actualiza los manuales de organización y procedimientos, comunica los cambios a las áreas y da seguimiento a su implementación.",
+          "accion_recomendada": "Actualiza los manuales de organización y procedimientos y comunica la nueva estructura a las áreas."
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000020",
+      "publicaciones_origen": [
+        "P000020"
+      ],
+      "tipo_publicacion": "indicador_diario",
+      "topico_principal": {
+        "clave": "t-ef",
+        "nombre": "Economía y Finanzas"
+      },
+      "topicos_secundarios": [
+        "Tipo de cambio",
+        "Banco de México",
+        "Obligaciones en moneda extranjera"
+      ],
+      "dependencias_involucradas": [
+        "Banco de México"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "Tipo de cambio para solventar obligaciones en moneda extranjera",
+      "subtitulo": "18.4677 pesos por dólar, según Banco de México.",
+      "audiencia_objetivo": "Importadores, exportadores, deudores en moneda extranjera y áreas de tesorería",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "Banco de México informa que el tipo de cambio obtenido el 17 de noviembre de 2026 fue de 18.4677 pesos por dólar.",
+        "La referencia aplica para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+        "La equivalencia con otras monedas se calcula con la cotización de estas frente al dólar en los mercados internacionales el día del pago."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": true,
+          "resumen": "El Banco de México publica el tipo de cambio para solventar obligaciones en moneda extranjera pagaderas en el país, fijado en 18.4677 pesos por dólar y obtenido el 17 de noviembre de 2026. Para comercio exterior, la referencia sirve para convertir operaciones, calcular precios y liquidar obligaciones con proveedores y clientes del exterior. Conviene verificar la fecha de aplicación y trasladar el dato a los sistemas de facturación y aduanas. Revisa la publicación, actualiza tus parámetros de conversión y conserva el respaldo oficial.",
+          "accion_recomendada": "Actualiza tus parámetros de conversión y usa el tipo de cambio publicado en cotizaciones y liquidaciones."
+        },
+        {
+          "perfil": "FC",
+          "relevante": true,
+          "resumen": "Banco de México informa que el tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana es de 18.4677 pesos por dólar, obtenido el 17 de noviembre de 2026. Para finanzas y crédito, la referencia es aplicable a pagos, conversiones y registro de operaciones en moneda extranjera. Conviene incorporarla en tesorería, actualizar los tipos de cambio de sistemas y verificar su uso en contratos y facturación. Revisa la publicación oficial, confirma la fecha de aplicación y documenta la fuente utilizada en tus registros contables.",
+          "accion_recomendada": "Actualiza el tipo de cambio en tesorería y sistemas y documenta la fuente en tus registros."
+        },
+        {
+          "perfil": "LC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000021",
+      "publicaciones_origen": [
+        "P000021"
+      ],
+      "tipo_publicacion": "indicador_diario",
+      "topico_principal": {
+        "clave": "t-ef",
+        "nombre": "Economía y Finanzas"
+      },
+      "topicos_secundarios": [
+        "TIIE",
+        "Tasas de interés",
+        "Banco de México"
+      ],
+      "dependencias_involucradas": [
+        "Banco de México"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "Tasas de interés interbancarias de equilibrio (TIIE)",
+      "subtitulo": "Tasas a 28, 91 y 182 días obtenidas el 17 de noviembre de 2026.",
+      "audiencia_objetivo": "Áreas de tesorería, riesgo y crédito de instituciones financieras y empresas",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "La TIIE a 28 días fue de 6.5147%.",
+        "La TIIE a 91 días fue de 6.5492%.",
+        "La TIIE a 182 días fue de 6.5995%.",
+        "Las tasas fueron obtenidas el 17 de noviembre de 2026."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": true,
+          "resumen": "Banco de México informa las Tasas de Interés Interbancarias de Equilibrio en moneda nacional: 6.5147% a 28 días, 6.5492% a 91 días y 6.5995% a 182 días, obtenidas el 17 de noviembre de 2026. Para finanzas y crédito, estas tasas son referencia para créditos, coberturas e instrumentos financieros. Conviene revisar su aplicación en contratos vigentes y en el cálculo de intereses. Actualiza tus modelos financieros, verifica las cláusulas de referencia y documenta la fuente oficial en los expedientes de tesorería.",
+          "accion_recomendada": "Actualiza los modelos de intereses y verifica las cláusulas de referencia en contratos vigentes."
+        },
+        {
+          "perfil": "LC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000022",
+      "publicaciones_origen": [
+        "P000022"
+      ],
+      "tipo_publicacion": "indicador_diario",
+      "topico_principal": {
+        "clave": "t-ef",
+        "nombre": "Economía y Finanzas"
+      },
+      "topicos_secundarios": [
+        "TIIE de fondeo",
+        "Tasas de interés",
+        "Banco de México"
+      ],
+      "dependencias_involucradas": [
+        "Banco de México"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario",
+      "subtitulo": "6.26 por ciento, según Banco de México.",
+      "audiencia_objetivo": "Áreas de tesorería, riesgo y crédito de instituciones financieras y empresas",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "La TIIE de Fondeo a un día hábil bancario en moneda nacional fue de 6.26 por ciento.",
+        "La tasa fue determinada el 13 de noviembre de 2026.",
+        "La publicación se basa en el artículo 8o. y 10 del Reglamento Interior del Banco de México y en el Capítulo IV del Título Tercero de la Circular 3/2012."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": true,
+          "resumen": "Banco de México da a conocer la Tasa de Interés Interbancaria de Equilibrio de fondeo a un día hábil bancario, determinada en 6.26 por ciento el 13 de noviembre de 2026. Para finanzas y crédito, la tasa es una referencia relevante para operaciones de fondeo, crédito y coberturas. Conviene verificar su aplicación en contratos y modelos de riesgo. Revisa la publicación oficial, actualiza tus tasas de referencia, confirma la fecha del dato y conserva evidencia para las conciliaciones y auditorías.",
+          "accion_recomendada": "Verifica la aplicación de la tasa en contratos de fondeo y actualiza los modelos de riesgo."
+        },
+        {
+          "perfil": "LC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000023",
+      "publicaciones_origen": [
+        "P000023"
+      ],
+      "tipo_publicacion": "resolucion",
+      "topico_principal": {
+        "clave": "t-leg",
+        "nombre": "Legislación y Justicia"
+      },
+      "topicos_secundarios": [
+        "Agrupaciones políticas",
+        "Nación Migrante",
+        "INE"
+      ],
+      "dependencias_involucradas": [
+        "Instituto Nacional Electoral"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": false,
+      "titulo": "El INE avala el cambio de nombre de Fuerza Migrante a Nación Migrante",
+      "subtitulo": "Resolución INE/CG618/2026 sobre los documentos básicos de la agrupación política nacional.",
+      "audiencia_objetivo": "Dirigentes y militantes de la Agrupación Política Nacional Nación Migrante y áreas de prerrogativas del INE",
+      "nivel_impacto": "bajo",
+      "puntos_clave": [
+        "Se declara la procedencia constitucional y legal del cambio de denominación de Fuerza Migrante a Nación Migrante y la modificación de su emblema.",
+        "Se declara la procedencia de las modificaciones a la Declaración de Principios, el Programa de Acción y los Estatutos de la agrupación.",
+        "Los documentos fueron aprobados en la Asamblea General Extraordinaria celebrada el 11 de julio de 2026."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El Consejo General del INE resolvió que es procedente el cambio de denominación de la Agrupación Política Nacional Fuerza Migrante a Nación Migrante, así como la modificación de su emblema y de sus documentos básicos. Para legal y cumplimiento, la resolución valida la Declaración de Principios, el Programa de Acción y los Estatutos aprobados en la asamblea del 11 de julio de 2026. Revisa el texto, actualiza el registro de la agrupación, verifica el uso del nuevo nombre en documentos oficiales y conserva la resolución como respaldo.",
+          "accion_recomendada": "Actualiza el registro y los documentos oficiales con la nueva denominación y conserva la resolución."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        }
+      ]
+    },
+    {
+      "ref_tarjeta": "T000024",
+      "publicaciones_origen": [
+        "P000024"
+      ],
+      "tipo_publicacion": "decreto",
+      "topico_principal": {
+        "clave": "t-gap",
+        "nombre": "Gobierno y Administración Pública"
+      },
+      "topicos_secundarios": [
+        "Talleres Gráficos de México",
+        "Documentos electorales",
+        "Empresas públicas"
+      ],
+      "dependencias_involucradas": [
+        "Presidencia de la República"
+      ],
+      "fecha_publicacion": "2026-11-18",
+      "hora_publicacion": null,
+      "accion_requerida": true,
+      "titulo": "Reforma al Decreto de creación de Talleres Gráficos de México",
+      "subtitulo": "Nuevo gobierno corporativo y reglas para la producción de documentos electorales.",
+      "audiencia_objetivo": "Directivos y personal de Talleres Gráficos de México, el INE, organismos públicos locales electorales y proveedores del organismo",
+      "nivel_impacto": "alto",
+      "puntos_clave": [
+        "Se reforman los artículos 1o., 2o., 5o., 6o., 7o., 8o. y 9o. y se adicionan el artículo 4o. Bis y los artículos 11 a 16 del Decreto de creación del organismo.",
+        "Se incorporan consejerías independientes en la Junta de Gobierno y límites a la subcontratación.",
+        "Se obliga a publicar precios de referencia y órdenes de producción, y se crea un programa de inversión para sustituir capacidad rentada.",
+        "La Junta de Gobierno deberá quedar integrada en los 30 días naturales siguientes a la entrada en vigor.",
+        "El decreto entra en vigor al día siguiente de su publicación."
+      ],
+      "perfiles": [
+        {
+          "perfil": "CE",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "FC",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "LC",
+          "relevante": true,
+          "resumen": "El decreto reforma y adiciona el Decreto de creación de Talleres Gráficos de México, con nuevos principios, atribuciones, reglas de contratación y obligaciones de transparencia. Para legal y cumplimiento, importa revisar los artículos 4o. Bis y 11 a 16, que incorporan controles sobre subcontratación, precios de referencia y publicación de órdenes de producción. También debe verificarse la integración de la Junta de Gobierno en 30 días naturales. Actualiza tu matriz normativa, revisa contratos y políticas internas, y documenta las medidas adoptadas antes de la entrada en vigor.",
+          "accion_recomendada": "Revisa contratos y políticas de subcontratación y documenta los controles de transparencia exigidos."
+        },
+        {
+          "perfil": "L",
+          "relevante": false,
+          "resumen": null,
+          "accion_recomendada": null
+        },
+        {
+          "perfil": "GA",
+          "relevante": true,
+          "resumen": "El decreto reforma el Decreto de creación de Talleres Gráficos de México para actualizar su objeto, integrar consejerías independientes y regular la producción de documentos y materiales electorales. Para gobierno y administración, el cambio redefine la gobernanza de un organismo público descentralizado y sus relaciones con el INE y los organismos locales electorales. La Junta de Gobierno debe quedar integrada en 30 días naturales y el decreto entra en vigor al día siguiente de su publicación. Revisa los nombramientos, actualiza el marco interno y da seguimiento a los plazos.",
+          "accion_recomendada": "Integra la Junta de Gobierno en el plazo de 30 días naturales y actualiza el marco interno del organismo."
+        }
+      ]
+    }
+  ]
+}
