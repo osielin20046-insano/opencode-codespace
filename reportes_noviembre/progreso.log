@@ -3906,3 +3906,18 @@ Pendiente: el archivo quedó sin commit (no se solicitó).
 == día 01 fin exit=0 03:19:26 UTC ==
 == LÍMITE GRATIS ALCANZADO en día 01: se para el guion para no quemar intentos. Los días ya hechos quedan guardados. ==
 == MES COMPLETO 2026-11-23 03:19:26 UTC ==
+[main 6254174] Progreso reportes DOF noviembre 2026
+ 8 files changed, 366 insertions(+), 5412 deletions(-)
+ create mode 100644 reportes_noviembre/reporte_dof_2026-11-01.json
+ delete mode 100644 reportes_noviembre/reporte_dof_2026-11-03.json
+ delete mode 100644 reportes_noviembre/reporte_dof_2026-11-07.json
+ delete mode 100644 reportes_noviembre/reporte_dof_2026-11-18.json
+ delete mode 100644 reportes_noviembre/reporte_dof_2026-11-20.json
+ delete mode 100644 reportes_noviembre/reporte_dof_2026-11-21.json
+To https://github.com/osielin20046-insano/opencode-codespace
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/osielin20046-insano/opencode-codespace'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
